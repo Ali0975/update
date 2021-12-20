@@ -989,10 +989,13 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959800
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
 #EXTINF:-1 group-title="VOD MOVIES",The Host (2006)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
+
 #EXTINF:-1 group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 group-title="VOD MOVIES",77.Crisis (2021-Crime)
 https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",78.The College Admissions Scandal (2021-Crime)
@@ -1085,7 +1088,18 @@ https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",162.The Right One (2021-Comedy)
 https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
-#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" ,11 TV
 http://51.210.199.43/hls/stream.m3u8
 
@@ -1257,6 +1271,11 @@ http://51.210.227.132/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Toonix.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Toonix 
 http://51.210.227.134/hls/stream.m3u8
 
+
+
+
+
+
 #EXTINF:-1 group-title="Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" ,ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
@@ -1377,6 +1396,92 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 tvg-id="JuiceTV.nz" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Australia",Juice TV 
 https://juicex.nz/hls/mystream.m3u8
 
+
+
+#EXTINF:-1 tvg-id="7flix.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" group-title="Australia",7flix [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 tvg-id="7mate.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" group-title="Australia",7mate [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 tvg-id="9Gem.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="Australia",9Gem [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:-1 tvg-id="9Go.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png" group-title="Australia",9Go! [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png" group-title="Australia",9Life [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:-1 tvg-id="9Rush.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png" group-title="Australia",9Rush [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10 (720p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold (540p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach (540p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:-1 tvg-id="10Shake.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png" group-title="Australia",10 Shake [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 tvg-id="ABCME.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Australia",ABC ME (720p)
+https://c.mjh.nz/101002210224
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="NAustralia",ABC News (720p) [Geo-blocked]
+https://c.mjh.nz/101002210220
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002210221
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002310231
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002510251
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002710271
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002810281
+#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+#EXTINF:-1 tvg-id="ausbizTV.au" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="BAustralia",ausbiz TV (720p) [Geo-blocked]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australia",C31 Melbourne (480p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",Channel 44 (480p)
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="M4TV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="Australia",M4TV (1080p)
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nine.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="Australia",Nine [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 tvg-id="NITV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" group-title="Australia",NITV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" group-title="Australia",SBS Food [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Australia",SBS TV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" group-title="Australia",SBS Viceland [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" group-title="Australia",SBS World Movies [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1 tvg-id="Seven.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png" group-title="Australia",Seven [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Australia",Snowy Mountains Television (1080p) [Not 24/7]
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 tvg-id="TravelFoodTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Australia",Travel & Food TV (720p) [Timeout]
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Australia",TVSN (360p) [Not 24/7]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="NEWS",AL JAZEERA HD 1
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="NEWS",AL JAZEERA HD 2
@@ -1397,22 +1502,17 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="NEWS",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",SONY PIX
-http://43.230.123.21:8080/live/sony-pix.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",SONY PIX
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/314.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
 http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/90.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",HBO
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/416.m3u8
+
+
 #EXTINF:-1 group-title="ENHLISH MOVIES",HBO  HITS
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/415.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",HBO SIGNATURE
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/414.m3u8
+
 #EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/412.m3u8
 #EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY PREMIUM
@@ -1420,121 +1520,6 @@ http://103.226.232.199:8888/live/kamiselaluada/untuksemua/413.m3u8
 #EXTINF:-1 group-title="ENHLISH MOVIES",VIU6
 https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
-http://iptv.tvmalaysia.cc:80/989898/989898/8838
-#EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
-
-
-#EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
-https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
-#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD viet sub
-http://203.154.243.89:11205/
-#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD 
-http://iptv.tvmalaysia.cc:80/989898/989898/7072
-#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-name="Cinema World" tvg-logo="http://tvmalaysia.cc:80/images/b915cd06c3407ad6dc1b128abfa207fc.jpg" group-title="MOVIES",Cinema World
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg" group-title="MOVIES",Thrill
-http://iptv.tvmalaysia.cc:80/989898/989898/7220
-#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg" group-title="MOVIES",AXN
-http://iptv.tvmalaysia.cc:80/989898/989898/7223
-#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg" group-title="MOVIES",Fox Crime
-http://iptv.tvmalaysia.cc:80/989898/989898/7225
-#EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="MOVIES",FOX
-hthttps://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190574
-#EXTINF:-1 tvg-id="foxlife.id" tvg-name="Fox Life" tvg-logo="http://tvmalaysia.cc:80/images/d6161eaf1dfd7140aac03dcdc9f87b3e.png" group-title="MOVIES",Fox Life
-http://iptv.tvmalaysia.cc:80/989898/989898/7228
-#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/c9d2b55dea34704104efde328f0436a3.png" group-title="MOVIES",KiX
-http://iptv.tvmalaysia.cc:80/989898/989898/7229
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="MOVIES",Star Movies HD
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/53664
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
-http://iptv.tvmalaysia.cc:80/989898/989898/8998
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES",Movies Now
-http://iptv.tvmalaysia.cc:80/989898/989898/8999
-#EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="MOVIES",Celestial Classic
-http://iptv.tvmalaysia.cc:80/989898/989898/7222
-#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
-http://iptv.tvmalaysia.cc:80/989898/989898/7235
-#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg" group-title="MOVIES",Celestial Classic Movies.
-http://iptv.tvmalaysia.cc:80/989898/989898/7222
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL+CLASSIC+MOVIES+logo.png" tvg-url="" group-title="MOVIES",Celestial Classic
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="MOVIES",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-id="celestialmovies" tvg-logo="https://i.postimg.cc/xCB2jRkp/celestial.png" group-title="MOVIES",Celestial Movie
-http://iptv.tvmalaysia.cc:80/989898/989898/7235
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", K-Movies (720p)
-https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="MOVIES",Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="MOVIES",Galaxy Premium
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="SPORTS",Champions TV 1
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="SPORTS",Bein Sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="SPORTS",fox sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="SPORTS",fox sport 3
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="SPORTS",UseeSports 1
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="SPORTS",UseeSports 2
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-#EXTINF:0 tvg-id="Golf.es" group-title="SPORTS",Golf
-http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 
 
 
@@ -2551,88 +2536,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959806
 #EXTINF:-1 group-title="VOD MOVIES",Pokemon Detective Pikachu (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959810
-
-
-
-
-
-#EXTINF:-1 tvg-id="7flix.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" group-title="Australia",7flix [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:-1 tvg-id="7mate.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" group-title="Australia",7mate [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 tvg-id="9Gem.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="Australia",9Gem [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:-1 tvg-id="9Go.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png" group-title="Australia",9Go! [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:-1 tvg-id="9Life.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png" group-title="Australia",9Life [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:-1 tvg-id="9Rush.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png" group-title="Australia",9Rush [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10 (720p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold (540p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
-#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach (540p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:-1 tvg-id="10Shake.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png" group-title="Australia",10 Shake [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
-#EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids (720p) [Not 24/7]
-https://c.mjh.nz/101002210222
-#EXTINF:-1 tvg-id="ABCME.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Australia",ABC ME (720p)
-https://c.mjh.nz/101002210224
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="NAustralia",ABC News (720p) [Geo-blocked]
-https://c.mjh.nz/101002210220
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002210221
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002310231
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002510251
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002710271
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002810281
-#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",ABC TV Plus (720p)
-https://c.mjh.nz/abc2
-#EXTINF:-1 tvg-id="ausbizTV.au" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="BAustralia",ausbiz TV (720p) [Geo-blocked]
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australia",C31 Melbourne (480p)
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",Channel 44 (480p)
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 tvg-id="M4TV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="Australia",M4TV (1080p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nine.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="Australia",Nine [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 tvg-id="NITV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" group-title="Australia",NITV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:-1 tvg-id="SBSFood.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" group-title="Australia",SBS Food [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Australia",SBS TV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:-1 tvg-id="SBSViceland.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" group-title="Australia",SBS Viceland [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" group-title="Australia",SBS World Movies [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1 tvg-id="Seven.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png" group-title="Australia",Seven [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Australia",Snowy Mountains Television (1080p) [Not 24/7]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="TravelFoodTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Australia",Travel & Food TV (720p) [Timeout]
-https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
-#EXTINF:-1 tvg-id="TVSN.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Australia",TVSN (360p) [Not 24/7]
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
-
 
 
 
