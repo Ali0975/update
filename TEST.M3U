@@ -663,8 +663,6 @@ https://archive.org/download/wiys-wonand-2021/WiysWonand2021.mp4
 https://archive.org/download/wrog-tn-2021/WrogTn2021.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Why Did You Kill Me?
 https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
-#EXTINF:-1 group-title="HIBURAN",Outdoor Channel
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
 #EXTINF:-1 group-title="VOD KIDS",Superman: Red Son (2020)
 https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
 #EXTINF:-1 group-title="VOD MOVIES",Terminator 2: Judgement Day
@@ -993,12 +991,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
 #EXTINF:-1 group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORTS",Redbull TV 2
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Racing 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Racing 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",77.Crisis (2021-Crime)
