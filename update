@@ -1,0 +1,1465 @@
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA",MNC
+http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+https://cdn-livetv-studio.metube.id/rcti.m3u8
+#EXTINF:-1 group-title="INDONESIA",GLOBAL TV
+https://cdn-livetv-studio.metube.id/globaltv.m3u8
+#EXTINF:-1 group-title="INDONESIA",INEWS
+https://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV Ku
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="MOVIES",Sinema Indonesia
+http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI
+http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1 group-title="MOVIES",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="KIDS",ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="MOVIES",BLUE ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="MOVIES",BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="MOVIES",TVN
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="MOVIES",TVN MOVIES
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="MOVIES",CCTV4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="NEWS",FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 group-title="NEWS",DW
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIES
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="MOVIES",THRILL
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="NEWS",BLOOMBERG
+http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+#EXTINF:-1 group-title="MOVIES",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="MOVIES",SONY ONE
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8
+#EXTINF:-1 group-title="MOVIES",SONY GEM TV
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="MOVIES",EGG TV
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1 group-title="NEWS",NHK WORLD JAPAN
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Fox Life
+http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",History
+http://212.76.29.26:80/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo Channel
+http://212.76.29.26:80/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo Wild
+http://212.76.29.26:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="MOVIES",Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KIDS",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="MOVIES",BLUE ANT EXTREME ID
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV ONE
+http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",NET TV
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",RAJAWALI TV
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",EURONEWS TV
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+#EXTINF:-1 group-title="NEWS",ALJAZEERA ARABIC
+http://45.126.83.51/qwr9ew/s/s16/index2.m3u8
+#EXTINF:-1 group-title="NEWS",ALJAZEERA ENG
+http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+#EXTINF:-1 group-title="NEWS",FRENCH 24
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://45.126.83.51/qwr9ew/s/s49/index2.m3u8
+#EXTINF:-1 group-title="KIDS",DAVINCI
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",CINEMA WORLD ID
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",KIX ID
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="INDONESIA",K PLUS
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="MOVIES",ENTERTAINMENT
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+#EXTINF:-1 group-title="INDONESIA",Trans 7
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1 group-title="SPORTS",SOCCER TV
+http://45.126.83.51/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 group-title="NEWS",CHANNEL NEWS ASIA
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1 group-title="KIDS",MY KIDS
+http://45.126.83.51/x6bnqe/s/s30/S4/mnf.m3u8
+#EXTINF:-1 group-title="MOVIES",MY CINEMA
+http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",PERSIAN CINEMA
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES",PERSIAN CINEMA
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES",PERSIAN
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES",PERSIAN CINEMA
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES",SOLH TV
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES",TV ELEVEN
+http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="INDONESIA",ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Ad Sport 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS",Ad Sport 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS",Ad Sport 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",LoveNature
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="INDONESIA",Kompas TV
+http://cdn4.mbahnunungonline.net/m3u8/id/ae5f9d6bcd610b6.m3u8
+#EXTINF:-1 group-title="INDONESIA",CNN Indonesia
+http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
+#EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
+http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
+#EXTINF:-1 group-title="INDONESIA",Global TV
+http://eroz84.wap.sh/local/gtv.m3u8
+#EXTINF:-1 group-title="INDONESIA",Inspira TV
+http://eroz84.wap.sh/local/inspira.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC
+http://eroz84.wap.sh/local/mnc.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+http://eroz84.wap.sh/local/rcti.m3u8
+#EXTINF:-1 group-title="INDONESIA",RRI Net
+http://eroz84.wap.sh/local/rri.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://eroz84.wap.sh/local/rtv.m3u8
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://eroz84.wap.sh/local/sctv.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS
+http://eroz84.wap.sh/local/trans7.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVKU
+http://eroz84.wap.sh/local/tvku.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI SPORTS
+http://eroz84.wap.sh/local/tvri_sport.m3u8
+#EXTINF:-1 group-title="HIBURAN",HBO CINEMAX
+http://eroz84.wap.sh/movies/cinemax.m3u8
+#EXTINF:-1 group-title="HIBURAN",HBO Family
+http://eroz84.wap.sh/movies/hbo_fam.m3u8
+#EXTINF:-1 group-title="HIBURAN",RED HBO
+http://eroz84.wap.sh/movies/hbo_red.m3u8
+#EXTINF:-1 group-title="INDONESIA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="NEWS",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS",WINI LIVE
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://nonton.wap.sh/id/001.m3u8
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+http://nonton.wap.sh/id/003.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS7
+http://nonton.wap.sh/id/004.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC TV
+http://nonton.wap.sh/id/005.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+http://nonton.wap.sh/id/006.m3u8
+#EXTINF:-1 group-title="INDONESIA",GTV
+http://nonton.wap.sh/id/007.m3u8
+#EXTINF:-1 group-title="INDONESIA",INEWS TV
+http://nonton.wap.sh/id/008.m3u8
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 group-title="INDONESIA",TV ONE
+http://nonton.wap.sh/id/010.m3u8
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://nonton.wap.sh/id/011.m3u8
+#EXTINF:-1 group-title="INDONESIA",NET TV
+http://nonton.wap.sh/id/012.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://nonton.wap.sh/id/013.m3u8
+#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
+http://nonton.wap.sh/id/014.m3u8
+#EXTINF:-1 group-title="INDONESIA",BERITA SATU
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:-1 group-title="INDONESIA",CNN INDONESIA
+http://nonton.wap.sh/id/016.m3u8
+#EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
+http://nonton.wap.sh/id/017.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI
+http://nonton.wap.sh/id/018.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",RETURN OF XANDER CAGE (2017)
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:-1 group-title="VOD MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",RACETIME (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",VICTOR FRANKENSTEIN (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:-1 group-title="VOD MOVIES",CRAZY RICH ASIANS (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",AQUAMAN (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:-1 group-title="NEWS",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="INDONESIA",GTV
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
+#EXTINF:-1 group-title="INDONESIA",INews
+http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
+#EXTINF:-1 group-title="INDONESIA",Metro TV
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC TV
+http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",3 Ninjas (1992)
+http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",3 Ninjas Kick Back (1994)
+http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",3 Ninjas Knuckle Up (1995)
+http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",3 Ninjas: High Noon at Mega Mountain (1998)
+http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Planet of the Apes (1968)
+http://www.deadlyblogger.com/NewRelease/apes1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Beneath the Planet of the Apes (1970)
+http://www.deadlyblogger.com/NewRelease/apes2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Escape from the Planet of the Apes (1971)
+http://www.deadlyblogger.com/NewRelease/apes3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Conquest of the Planet of the Apes (1972)
+http://www.deadlyblogger.com/NewRelease/apes4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Battle for the Planet of the Apes (1973)
+http://www.deadlyblogger.com/NewRelease/apes5.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Austin Powers: International Man of Mystery (1997)
+http://www.deadlyblogger.com/NewRelease/austin1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Austin Powers: The Spy Who Shagged Me (1999)
+http://www.deadlyblogger.com/NewRelease/austin2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Don't Tell Mom the Babysitter's Dead (1991)
+http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bad Boys (1995)
+http://www.deadlyblogger.com/NewRelease/badboys1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sleeping Beauty (1959)
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Belly (1998)
+http://www.deadlyblogger.com/NewRelease/belly1998.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Blade (1998)
+http://www.deadlyblogger.com/NewRelease/blade1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Blood In Blood Out (1993)
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Body Heat (1981)
+http://www.deadlyblogger.com/NewRelease/bodyheat1981.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cabin by the Lake (2000)
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Carrie (1976)
+http://www.deadlyblogger.com/NewRelease/carrie1976.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Texas Chain Saw Massacre (1974)
+http://www.deadlyblogger.com/NewRelease/chainsaw2013.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Child's Play (1988)
+http://www.deadlyblogger.com/NewRelease/childsplay1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Child's Play 2 (1990)
+http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Child's Play 3 (1991)
+http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cinderella (1950)
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Class Act (1992)
+http://www.deadlyblogger.com/NewRelease/classact.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Colors (1988)
+http://www.deadlyblogger.com/NewRelease/colors.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Congo (1995)
+http://www.deadlyblogger.com/NewRelease/congo1995.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn (1984)
+http://www.deadlyblogger.com/NewRelease/corn1984.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn II: The Final Sacrifice (1992)
+http://www.deadlyblogger.com/NewRelease/corn2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn III: Urban Harvest (1995)
+http://www.deadlyblogger.com/NewRelease/corn3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn: The Gathering (1996)
+http://www.deadlyblogger.com/NewRelease/corn4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn V: Fields of Terror (1998)
+http://www.deadlyblogger.com/NewRelease/corn5.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Children of the Corn 666: Isaac's Return (1999)
+http://www.deadlyblogger.com/NewRelease/corn6.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Crimson Tide (1995)
+http://www.deadlyblogger.com/NewRelease/crimson.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cujo (1983)
+http://www.deadlyblogger.com/NewRelease/cujo.mp4
+#EXTINF:-1 group-title="VOD MOVIES",101 Dalmatians (1961)
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Evil Dead (1981)
+http://www.deadlyblogger.com/NewRelease/dead.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dead Presidents (1995)
+http://www.deadlyblogger.com/NewRelease/deadp.mp4
+#EXTINF:-1 group-title="VOD MOVIES",In Too Deep (1999)
+http://www.deadlyblogger.com/NewRelease/deep1999.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Great Mouse Detective (1986)
+http://www.deadlyblogger.com/NewRelease/detective.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dirty Dancing (1987)
+http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Disney Christmas Gift (1983)
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dogma (1999)
+http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Million Dollar Duck (1971)
+http://www.deadlyblogger.com/NewRelease/dollarduck.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mrs. Doubtfire (1993)
+http://www.deadlyblogger.com/NewRelease/doubtfire.mp4
+#EXTINF:-1 group-title="VOD MOVIES",DuckTales the Movie: Treasure of the Lost Lamp (1990)
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Nightmare on Elm Street (1984)
+http://www.deadlyblogger.com/NewRelease/elm1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Nightmare on Elm Street 2 - Freddy's Revenge (1985)
+http://www.deadlyblogger.com/NewRelease/elm2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Nightmare on Elm Street 3 - Dream Warriors (1987)
+http://www.deadlyblogger.com/NewRelease/elm3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Nightmare on Elm Street 4 - The Dream Master (1988)
+http://www.deadlyblogger.com/NewRelease/elm4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Nightmare on Elm Street 5 - The Dream Child (1989)
+http://www.deadlyblogger.com/NewRelease/elm5.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Freddy's Dead: The Final Nightmare (1991)
+http://www.deadlyblogger.com/NewRelease/elm6.mp4
+#EXTINF:-1 group-title="VOD MOVIES",New Nightmare (1994)
+http://www.deadlyblogger.com/NewRelease/elm7.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Exorcist (1973)
+http://www.deadlyblogger.com/NewRelease/exorcist1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fallen (1998)
+http://www.deadlyblogger.com/NewRelease/fallen2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Flubber (1997)
+http://www.deadlyblogger.com/NewRelease/flubber.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Who Framed Roger Rabbit (1988)
+http://www.deadlyblogger.com/NewRelease/framed.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Friday (1995)
+http://www.deadlyblogger.com/NewRelease/friday1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Friday the 13th (1980)
+http://www.deadlyblogger.com/NewRelease/friday1980.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Next Friday (2000)
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Secret Garden (1993)
+http://www.deadlyblogger.com/NewRelease/garden1993.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Godfather (1972)
+http://www.deadlyblogger.com/NewRelease/godfather1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Godfather - Part II (1974)
+http://www.deadlyblogger.com/NewRelease/godfather2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Godfather: Part III (1990)
+http://www.deadlyblogger.com/NewRelease/godfather3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",How the Grinch Stole Christmas (2000)
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Hocus Pocus (1993)
+http://www.deadlyblogger.com/NewRelease/hocuspocus.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Home Alone (1990)
+http://www.deadlyblogger.com/NewRelease/homealone1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Home Alone 2: Lost in New York (1992)
+http://www.deadlyblogger.com/NewRelease/homealone2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Home Alone 3 (1997)
+http://www.deadlyblogger.com/NewRelease/homealone3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Hook (1991)
+http://www.deadlyblogger.com/NewRelease/hook1991.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Independence Day (1996)
+http://www.deadlyblogger.com/NewRelease/indep.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Jack (1996)
+http://www.deadlyblogger.com/NewRelease/jack1996.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Jawbreaker (1999)
+http://www.deadlyblogger.com/NewRelease/jawbreaker.mp4
+#EXTINF:-1 group-title="VOD MOVIES",New Jersey Drive (1995)
+http://www.deadlyblogger.com/NewRelease/jerseydrive95.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Jingle All the Way (1996)
+http://www.deadlyblogger.com/NewRelease/jinglealltheway.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Juice (1992)
+http://www.deadlyblogger.com/NewRelease/juice.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Jumanji (1995)
+http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Last Dragon (1985)
+http://www.deadlyblogger.com/NewRelease/lastdragon.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Life of Brian (1979)
+http://www.deadlyblogger.com/NewRelease/lifebrian.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Lion King (1994)
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Love Bug (1968)
+http://www.deadlyblogger.com/NewRelease/lovebug1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Matrix (1999)
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mickey's Christmas Carol (1983)
+http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+http://www.deadlyblogger.com/NewRelease/menace.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Menace II Society (1993)
+http://www.deadlyblogger.com/NewRelease/menace2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Little Mermaid (1989)
+http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mighty Ducks (1992)
+http://www.deadlyblogger.com/NewRelease/mighty1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",D2: The Mighty Ducks (1994)
+http://www.deadlyblogger.com/NewRelease/mighty2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",D3: The Mighty Ducks (1996)
+http://www.deadlyblogger.com/NewRelease/mighty3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dangerous Minds (1995)
+http://www.deadlyblogger.com/NewRelease/minds.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Miracle on 34th Street (1947)
+http://www.deadlyblogger.com/NewRelease/miracle34.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Men in Black (1997)
+http://www.deadlyblogger.com/NewRelease/mnb1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Money Pit (1986)
+http://www.deadlyblogger.com/NewRelease/moneypit1986.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Great Muppet Caper (1981)
+http://www.deadlyblogger.com/NewRelease/muppet1981.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Muppet Christmas Carol (1992)
+http://www.deadlyblogger.com/NewRelease/muppetcarol.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Muppets Take Manhattan (1984)
+http://www.deadlyblogger.com/NewRelease/muppets1984.mp4
+#EXTINF:-1 group-title="VOD MOVIES",New Jack City (1991)
+http://www.deadlyblogger.com/NewRelease/newjack.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Nightmare Before Christmas (1993)
+http://www.deadlyblogger.com/NewRelease/nightmarebefore.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Only the Strong (1993)
+http://www.deadlyblogger.com/NewRelease/onlys.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Peter Pan (1953)
+http://www.deadlyblogger.com/NewRelease/pan1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pinocchio (1940)
+http://www.deadlyblogger.com/NewRelease/pinco1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Night at the Roxbury (1998)
+http://www.deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Running Man (1987)
+http://www.deadlyblogger.com/NewRelease/runningman1987.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Boondock Saints (1999)
+http://www.deadlyblogger.com/NewRelease/saints1999.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pet Sematary (1989)
+http://www.deadlyblogger.com/NewRelease/sematary1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pet Sematary II (1992)
+http://www.deadlyblogger.com/NewRelease/sematary2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Shining (1980)
+http://www.deadlyblogger.com/NewRelease/shining.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Siege (1998)
+http://www.deadlyblogger.com/NewRelease/siege1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Frosty The Snowman (1969)
+http://www.deadlyblogger.com/NewRelease/snowman1969.mp4
+#EXTINF:-1 group-title="VOD MOVIES",South Central (1992)
+http://www.deadlyblogger.com/NewRelease/southcentral.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Star Wars: Episode V - The Empire Strikes Back (1980)
+http://www.deadlyblogger.com/NewRelease/starwarsv.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Star Wars: Episode VI - Return of the Jedi (1983)
+http://www.deadlyblogger.com/NewRelease/starwarsvi.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Bone Collector (1999)
+http://www.deadlyblogger.com/NewRelease/thebone1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Fox and the Hound (1981)
+http://www.deadlyblogger.com/NewRelease/thefox.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Goonies (1985)
+http://www.deadlyblogger.com/NewRelease/thegoonies.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Boyz n the Hood (1991)
+http://www.deadlyblogger.com/NewRelease/thehood.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Teenage Mutant Ninja Turtles (1990)
+http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Teenage Mutant Ninja Turtles III (1993)
+http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
+#EXTINF:-1 group-title="VOD MOVIES",My Neighbor Totoro (1988)
+http://www.deadlyblogger.com/NewRelease/totoro.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Troll (1986)
+http://www.deadlyblogger.com/NewRelease/troll1.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Troll 2 (1990)
+http://www.deadlyblogger.com/NewRelease/troll2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Wedding Singer (1998)
+http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
+#EXTINF:-1 group-title="VOD MOVIES",X-Men (2000)
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 group-title="SPORTS",Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS",Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS",ACCDN 2
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 group-title="SPORTS",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS",MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 group-title="SPORTS",World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 group-title="SPORTS",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS",Sportskool TV (720p)
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 group-title="NEWS",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tom & Jerry 2
+https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2d70ca84719db45e4ecc1e.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Escape from the Planet of the Apes (1971)* 2
+https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A.Fuga.do.Planeta.dos.Macacos.1971.1080p-WOLVERDONFILMES.COM.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Two Distant Strangers
+https://archive.org/download/2-dsta-sngrs-2020/2DstaSngrs2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Richard Petty Story (1974)
+https://archive.org/download/43TheRichardPettyStory_201301/43TheRichardPettyStory.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Abóbada
+https://archive.org/download/aabada-2021/AAbada2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",American Skin
+https://archive.org/download/acan-skn-2021/AcanSkn2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",As Cinzas da Mãe
+https://archive.org/download/acnzd-me-2021/ACnzdMe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Against a Crooked Sky (1976)
+https://archive.org/download/AgainstACrookedSky/AgainstACrookedSky_title_2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Awake
+https://archive.org/download/ake-2021/Ake2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",All the Kind Strangers (1974)
+https://archive.org/download/AlltheKindStrangers/AlltheKindStrangers_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Altered States (1980)
+https://archive.org/download/AlteredStatesKenRussell1980AngeeParaZoowoman.website/Altered%20States%20%28Ken%20Russell%2C%201980%29_angee_para%20zoowoman.website.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Animalympics (1980)
+https://archive.org/download/Animalympics_201704/Animalympics.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Apache Blood (1975)
+https://archive.org/download/ApacheBlood/Apache_Blood_256kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Arnold (1973)
+https://archive.org/download/Arnold1973FullMovie/Arnold%20(1973)%20[Full%20Movie].mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Asphyx (1972)
+https://archive.org/download/ASPHYX1972/ASPHYX%20%201972.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Battle Beyond the Stars (1980)
+https://archive.org/download/BattleBeyondTheStars1980/Battle%20Beyond%20The%20Stars%20%281980%29.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bo Burnham: Inside
+https://archive.org/download/bbi-2021/BBI2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Black Art: In the Absence of Light
+https://archive.org/download/bck-at-ite-aenceo-lgh-2021/BckAtIteAenceoLgh2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Brian Regan: On the Rocks
+https://archive.org/download/bian-rgnote-rks-2021/BianRgnoteRks2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Billie Eilish: The Worlds a Little Blurry
+https://archive.org/download/blle-eishth-wldsa-lte-blry-2021/BlleEishthWldsaLteBlry2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Breaking News in Yuba County
+https://archive.org/download/bnin-yc-2021/BNinYC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Boogie
+https://archive.org/download/boge-2021/Boge2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Born to Win (1971)
+https://archive.org/download/BorntoWin/BorntoWin_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bastille ReOrchestrated
+https://archive.org/download/bstile-rorstted-2021/BstileRorstted2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bugs Bunny Road Runner Movie (1979)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Bugs%20Bunny%20Road%20Runner%20Movie%20(1979)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Looney Looney Looney Bugs Bunny Movie (1981)
+https://archive.org/download/Bugs_Bunny_Collection/Bugs%20Bunny%20-%20Looney%20Bugs%20Bunny%20Movie%20(1981)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="VOD MOVIES",Yes Day
+https://archive.org/download/c134544f45efd63518e7a32be41c297e/c134544f45efd63518e7a32be41c297e.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cabras da Peste
+https://archive.org/download/caasd-pst-2021/CaasdPst2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Gun and the Pulpit (1974)
+https://archive.org/download/cco_thegunandthepulpit/ccoPublicDomainThe_Gun_and_the_Pulpit_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Crisis
+https://archive.org/download/cis-2021/Cis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Joshua (1976)
+https://archive.org/download/ClaCinOnl_Joshua/Joshua_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Come True
+https://archive.org/download/cm-tue-2021/CmTue2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Coming 2 America
+https://archive.org/download/coing-2-arca/Coing2Arca.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Colors of Love
+https://archive.org/download/co-l-2021/CoL2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cold Sweat (1970)
+https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cosmic Sin
+https://archive.org/download/comcin-2021/Comcin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Concrete Cowboys (1979)
+https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",War of the Planets (1977)
+https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cruella
+https://archive.org/download/crla-pt-2021/CrlaPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Crazy About Her
+https://archive.org/download/crzy-abt-he-2021/CrzyAbtHe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Curse of Bigfoot (1975)
+https://archive.org/download/CurseOfBigfoot_MPEG/Curse%20of%20Bigfoot.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Covid Diaries NYC
+https://archive.org/download/cvd-dires-nyc-2021/CvdDiresNYC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Zack Snyders Justice League
+https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Death Machines (1976)
+https://archive.org/download/DeathMachines/DeathMachines.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Deep Red (1975)
+https://archive.org/download/DeepRed1975/DeepRed_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Deadly Illusions
+https://archive.org/download/dely-illons-2021/DelyIllons2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Original Gangster
+https://archive.org/download/df74g6fsd8g4sd6g45sd6g4/df74g6fsd8g4sd6g45sd6g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sky High
+https://archive.org/download/df8g4df65g4adf98g4789g4sdf564/df8g4df65g4adf98g4789g4sdf564.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Doll Face
+https://archive.org/download/dll-fce-2021/DllFce2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Doomsday Machine (1972)
+https://archive.org/download/DoomsdayMachine1972/DoomsdayMachine1972_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Doors
+https://archive.org/download/dos-2021/Dos2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Driller Killer (1979)
+https://archive.org/download/DrillerKiller1979/Driller-killer_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dark Web Cicada 3301
+https://archive.org/download/dwc-33012021/DWC33012021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",El ascensor
+https://archive.org/download/el-acsor-2021/ElAcsor2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Edge of the World
+https://archive.org/download/eot-w-2021/EotW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Chaos Walking
+https://archive.org/download/er56g4sd564sd6f846gf4/er56g4sd564sd6f846gf4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Eggs
+https://archive.org/download/es-2021/Es2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Endangered Species
+https://archive.org/download/esp-2021/ESp2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Exodus
+https://archive.org/download/exus-2021/Exus2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Faceless
+https://archive.org/download/facles-2021/Facles2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fatherhood
+https://archive.org/download/fahd-2021/Fahd2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",French Exit
+https://archive.org/download/fe-2021/FE2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Four Good Days
+https://archive.org/download/fgd-2021/FGD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fake Famous
+https://archive.org/download/fk-faous-2021/FkFaous2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Falling
+https://archive.org/download/fllng-2020/Fllng2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Flora & Ulysses
+https://archive.org/download/flr-uyss-2021/Flr%26Uyss2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fear Street Part One: 1994
+https://archive.org/download/fspo-19942021/FSPO19942021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",SAS: Red Notice
+https://archive.org/download/g84aerg1g4er8g4aer56g4er5g4/g84aerg1g4er8g4aer56g4er5g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gaia
+https://archive.org/download/ga-2021/Ga2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Super Monster (1980)
+https://archive.org/download/GameraSuperMonster/Gamera%20-%20Super%20Monster.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Goodbye Butterfly
+https://archive.org/download/god-be-bttrfly-2021/GodBeBttrfly2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",All Monsters Attack (1969)
+https://archive.org/download/GodzillasRevenge/Godzilla%27s%20Revenge.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Megalon (1973)
+https://archive.org/download/GodzillaVs.Megalon/Godzilla%20Vs.%20Megalon.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Gigan (1972)
+https://archive.org/download/GodzillaVsGigan/Godzilla%20Vs%20Gigan.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gone with the West (1975)
+https://archive.org/download/GonewiththeWest/GonewiththeWest_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Grave of the Vampire (1972)
+https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gatao: The Last Stray
+https://archive.org/download/gtls-2021/GTLS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Great White
+https://archive.org/download/gw-2021_202105/GW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Just Say Yes
+https://archive.org/download/hgftrjhg45ghgh4d56rg4er89g4t8gh/hgftrjhg45ghgh4d56rg4er89g4t8gh.mp4
+#EXTINF:-1 group-title="VOD MOVIES",High Risk (1981)
+https://archive.org/download/HighRisk/High_Risk_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Horror Express (1972)
+https://archive.org/download/Horror_Express_WebM/horror_express_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Homunculus
+https://archive.org/download/hounclus-2021/Hounclus2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Happily
+https://archive.org/download/hppy-2021/Hppy2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Heroes. Silencio y Rock & Roll
+https://archive.org/download/hsrr-2021/HSRR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",I Am All Girls
+https://archive.org/download/iaag-2021/IAAG2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",I Care a Lot
+https://archive.org/download/icrea-lt-2021/ICreaLt2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Infinite
+https://archive.org/download/ifit-2021/Ifit2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Image of Bruce Lee (1978)
+https://archive.org/download/ImageofBruceLee/ClaCinOnl_ImageofBruceLee_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",In The Heights
+https://archive.org/download/ith-2021/ITH2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",J.D.'s Revenge (1976)
+https://archive.org/download/JDSREVENGE1976FullMovie/JD%27S%20REVENGE%201976%20full%20movie.mp4
+#EXTINF:-1 group-title="VOD MOVIES",June & Kopi
+https://archive.org/download/jnend-ki-2021/JnendKi2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Keep My Grave Open (1976)
+https://archive.org/download/KeepMyGraveOpen_1976/Keep%20My%20Grave%20Open.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lady Frankenstein (1971)
+https://archive.org/download/Lady_Frankenstein/Lady_Frankenstein_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Last Call
+https://archive.org/download/lc-2021/LC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Luca
+https://archive.org/download/lc-pt-2021/LcPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Footprints on the Moon (1975)
+https://archive.org/download/LE_ORME/LE%20ORME.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Let It Be (1970)
+https://archive.org/download/Let_It_Be_1970_film/The%20Beatles%20-%20Let%20It%20Be%20(Deluxe%2035mm%20Widescreen%20Stereo%20Edition)2.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lena and Snowball
+https://archive.org/download/lnand-swall-2021/LnandSwall2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lady of Guadalupe
+https://archive.org/download/lyf-gadap-2020/LyfGadap2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong
+https://archive.org/download/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Messiah of Evil (1973)
+https://archive.org/download/MessiahofEvil_avi/Messiah_of_Evil.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Music
+https://archive.org/download/mic-2021/Mic2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mainstream
+https://archive.org/download/mintr-2021/Mintr2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Monster of Frankenstein (1981)
+https://archive.org/download/MonsterOfFrankenstein1981TVSpecialEnglishDubbed_201704/Monster%20of%20Frankenstein%20(1981%20TV%20Special)%20[English%20dubbed].mp4
+#EXTINF:-1 group-title="VOD MOVIES",Monster (1980)
+https://archive.org/download/Monstroid/Monstroid.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Moon of the Wolf (1972)
+https://archive.org/download/MoonOfTheWolf1972/MoonOfTheWolf1972MadeForTv1_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Marvels Behind the Mask
+https://archive.org/download/mrls-bhdte-ma-2021/MrlsBhdteMa2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",More Than Miyagi: The Pat Morita Story
+https://archive.org/download/mr-tan-myai-te-pa-mita-sty-2021/MrTanMyaiTePaMitaSty2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mortal Kombat
+https://archive.org/download/mtal-kobt-2021/MtalKobt2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Naked Massacre (1976)
+https://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Nobody
+https://archive.org/download/nbdy-2021/Nbdy2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",No Sudden Move
+https://archive.org/download/nsm-2021/NSM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Oslo
+https://archive.org/download/ol-2021/Ol2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Operation Varsity Blues: The College Admissions Scandal
+https://archive.org/download/opatn-vaiy-bue-te-colle-amion-sndl-2021/OpatnVaiyBueTeColleAmionSndl2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Os Salafrários
+https://archive.org/download/os-2021_202106/OS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",O Tesouro
+https://archive.org/download/otsuro-2021/OTsuro2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Oxygène
+https://archive.org/download/oxe-2021/Oxe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Phobias
+https://archive.org/download/phis-2021/Phis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pelé
+https://archive.org/download/ple-2021/Pl%C3%A92021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pokemon: The Movie 2000 (1999)
+https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Paper Lives
+https://archive.org/download/pper-lis-2021/PperLis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Puss 'N Boots Travels Around the World (1976)
+https://archive.org/download/PussnBootsTravelsAroundTheWorld/Puss%20'n%20Boots%20Travels%20Around%20the%20World.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Red
+https://archive.org/download/rd-2021/Rd2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Red Dot
+https://archive.org/download/rdot-2021/RDot2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Rifkins Festival
+https://archive.org/download/rfkns-fesvl-2020/RfknsFesvl2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Raya and the Last Dragon
+https://archive.org/download/ryadte-lst-daon-2021/RyadteLstDaon2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Raya e o Último Dragão
+https://archive.org/download/ryadte-lst-daon-2021-ptpt/RyadteLstDaon2021PTPT.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Seance
+https://archive.org/download/sanc-2021/Sanc2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Thunder Force
+https://archive.org/download/sd56gtr4gdf5vg1f4e8g4/sd56gtr4gdf5vg1f4e8g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Snowbeast (1977)
+https://archive.org/download/Snowbeast_436/MoviePowderPresentsSnowbeast_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Stowaway
+https://archive.org/download/soaay-2021/Soaay2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Spacehunter: Adventures in the Forbidden Zone (1983)
+https://archive.org/download/SpacehunterOldSciFiFilm/spacehunter%20%3D%20old%20sci%20fi%20film.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Space Sweepers
+https://archive.org/download/spce-swers-2021/SpceSwers2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sphinx (1981)
+https://archive.org/download/Sphinx1981Dvdrip/Sphinx%20(1981)%20dvdrip.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Squared Love
+https://archive.org/download/sqed-lve-2021/SqedLve2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Silk Road
+https://archive.org/download/sr-2021/SR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Starcrash (1978)
+https://archive.org/download/Starcrash1978/Starcrash%20-%201978%20-.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sentinelle
+https://archive.org/download/stille-2021/Stille2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Streetfighter (1974)
+https://archive.org/download/Streetfighter_778/StreetFighter_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Superman (1978)
+https://archive.org/download/Superman1978/Superman%201978.mp4
+#EXTINF:-1 group-title="VOD MOVIES",TNT Jackson (1974)
+https://archive.org/download/T.n.t.Jackson/MoviePowderPresentsTntJackson_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tina
+https://archive.org/download/ta-2021/Ta2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",To All the Boys: Always and Forever
+https://archive.org/download/tal-tbys-alwsad-frer-2021/TAlTBysAlwsadFrer2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Djinn
+https://archive.org/download/td-2021_202105/TD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Day Sports Stood Still
+https://archive.org/download/te-dy-spts-soo-sil-2021/TeDySptsSooSil2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Girl on the Train
+https://archive.org/download/te-grlonte-tin-2021/TeGrlonteTin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Little Things
+https://archive.org/download/te-lile-thgs-2021/TeLileThgs2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mauritanian
+https://archive.org/download/temaritian2021/TeMaritian2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Misadventures of Hedi and Cokeman
+https://archive.org/download/te-misvtusf-hind-ckan-2021/TeMisvtusfHindCkan2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Education of Fredrick Fitzell
+https://archive.org/download/teo-ff-2021/TEoFF2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Reckoning
+https://archive.org/download/te-rekin-2021/TeRekin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Things Heard & Seen
+https://archive.org/download/tha-s-2021/THaS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Wicker Man (1973)
+https://archive.org/download/The.Wicker.Man.1973.720p.BluRay.x264.YIFY/The.Wicker.Man.1973.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Boy in the Plastic Bubble (1976)
+https://archive.org/download/The_Boy_In_The_Plastic_Bubble/The_Boy_In_The_Plastic_Bubble_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Devil's Feast (1999)
+https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Adventures of Pinocchio (1978)
+https://archive.org/download/TheAdventuresOfPinocchio1978EnglishVersion/The%20Adventures%20of%20Pinocchio%201978%20(English%20Version).mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Astral Factor (1976)
+https://archive.org/download/TheAstralFactor1976FullLengthHorrorMovie/The%20Astral%20Factor%20(1976)%20-%20Full%20Length%20horror%20movie.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Black Hole (1979)
+https://archive.org/download/TheBlackHoleMovie/The%20Black%20Hole%201979.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Black 6 (1973)
+https://archive.org/download/TheBlackSix1973FullMovie/The%20Black%20Six%20-%201973%20-%20Full%20Movie.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Disappearance of Flight 412 (1974)
+https://archive.org/download/TheDisappearanceofFlight41274DVDcosmo3/TheDisappearanceofFlight41274DVDcosmo3_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Last Dinosaur (1977)
+https://archive.org/download/TheLastDinosaur_201701/The%20Last%20Dinosaur.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Omega Man (1971)
+https://archive.org/download/TheOmegaMan1971/The%20Omega%20Man%201971.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Proud and the Damned (1972)
+https://archive.org/download/TheProudAndTheDamned/ClaCinOnl_TheProudandtheDamned_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Map of Tiny Perfect Things
+https://archive.org/download/th-mpof-ty-perc-thgs-2021/ThMpofTyPercThgs2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Night
+https://archive.org/download/th-nht-2021/ThNht2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Soul
+https://archive.org/download/th-sul-2021/ThSul2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",THX 1138 (1971)
+https://archive.org/download/THX-1138_Original_Cut.mkv/THX-1138_Original_Cut.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Ice Road
+https://archive.org/download/tir-2021/TIR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Marksman
+https://archive.org/download/tm-2021/TM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Misfits
+https://archive.org/download/tm-2021_202106/TM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mitchells vs. The Machines
+https://archive.org/download/tmihllv-te-mies-2021/TMihllvTeMies2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tom Clancys Without Remorse
+https://archive.org/download/to-cacy-wout-rose-2021/ToCacyWoutRose2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Trigger Point
+https://archive.org/download/tp-2021/TP2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Tomorrow War
+https://archive.org/download/ttw-2021/TTW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The United States vs. Billie Holiday
+https://archive.org/download/tusvs-bh-2021/TUSvsBH2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Woman in the Window
+https://archive.org/download/twit-w-2021/TWitW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Those Who Wish Me Dead
+https://archive.org/download/twwmd-2021/TWWMD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Year Earth Changed
+https://archive.org/download/tyec-2021/TYEC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Uma Vida Toda Empatada
+https://archive.org/download/ua-vda-ta-emtda-2021/UaVdaTaEmtda2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Vanquish
+https://archive.org/download/vaish-2021/Vaish2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Voyagers
+https://archive.org/download/vyers-2021/Vyers2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",War of the Robots (1978)
+https://archive.org/download/WarOfTheRobots/WarOfTheRobots1978.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Werewolf of Washington (1973)
+https://archive.org/download/Werewolf_of_Washington/Werewolf_of_Washington_512kb.mp4
+#EXTINF:-1 group-title="VOD MOVIES",White Mama (1980)
+https://archive.org/download/WhiteMama1980WithBetteDavisAndErnestHardenJr.FullTVMovie/White%20Mama%20(1980)%20with%20Bette%20Davis%20and%20Ernest%20Harden%20Jr.%20(Full%20TV%20Movie).mp4
+#EXTINF:-1 group-title="VOD MOVIES",Willys Wonderland
+https://archive.org/download/wiys-wonand-2021/WiysWonand2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Wrong Turn
+https://archive.org/download/wrog-tn-2021/WrogTn2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Why Did You Kill Me?
+https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
+#EXTINF:-1 group-title="SPORTS",Fox Sport
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="INDONESIA",Jakarta Globe
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="NEWS",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u8
+#EXTINF:-1 group-title="NEWS",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="INDONESIA",iNews
+https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV
+https://cdn4.mbahnunungonline.net/m3u8/id/590642f0a31efa3.m3u8
+#EXTINF:-1 group-title="INDONESIA",RCTI
+https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC TV
+https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
+#EXTINF:-1 group-title="INDONESIA",GTV
+https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
+#EXTINF:-1 group-title="HIBURAN",Travel Channel
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Sony BBC Earth HD
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 group-title="MOVIES",Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",History Channel
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 group-title="KIDS",Marvel HQ HD
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 group-title="KIDS",Nick HD+
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",History 2 Channel
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet Eng
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Max HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery Turbo
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+#EXTINF:-1 group-title="HIBURAN",Outdoor Channel
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 group-title="MOVIES",UTV Movies International
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Eurosport HD
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery Science
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1 group-title="MOVIES",Zee Cinema SD
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Love Nature HD
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX ACTION MOVIES
+https://gratismkctv.net/film/foxactionmovies.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX MOVIES
+https://gratismkctv.net/film/foxmovies.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="VOD KIDS",Superman: Red Son (2020)
+https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
+#EXTINF:-1 group-title="VOD MOVIES",Terminator 2: Judgement Day
+https://lh3.googleusercontent.com/_axhx4mYdOrRZjyDRrLE3EaHAbFYWkgotEYT_wXMXcoVG-s8cWyJg60atAqn8FozpWdSieE8F8eTuJ2EAA=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Age: The Meltdown (2006)
+https://lh3.googleusercontent.com/_e3MaCLRE2pFQSYdaLHBoIiN6O7i6ALosCHAiYUDILysW75D9VLG-ChTxhwVk4jUccEXUHa2dqjIoOU1GA=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Age: The Meltdown
+https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
+#EXTINF:-1 group-title="VOD MOVIES",Batman: The Dark Knight Rises (2012)
+https://lh3.googleusercontent.com/0i7CSFHiP0E_NHl1dEFKdpqCNkSGWtDP3tOQQxjDvr_oSauAkn8_8E30twpKn20WKTZuVOuLGKznk9CqNQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Dragon Quest: Your Story (2019)
+https://lh3.googleusercontent.com/18EQjsSIBHi4fbbOv2wwMLayRH4dk3igm_JvM7Ta0R9oYhrXl_dR7y3xBo_lFpRtSBBc5msG-0NJWQplyA=m22
+#EXTINF:-1 group-title="VOD KIDS",Lilo & Stitch (2002)
+https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94USqf182zlQS6a1utV7jiFAzhrqcj9wE-nMaJA=m22
+#EXTINF:-1 group-title="VOD KIDS",Harry Potter and the Chamber of Secrets
+https://lh3.googleusercontent.com/53z27VXTDtewrIUSc7_4JOtod483AZR6bQ9UGCLjSRhINno9Z4Ywn669rAsrvWnfo4IoVpEj0qPcwjD8iQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Brave (2012)
+https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
+#EXTINF:-1 group-title="VOD MOVIES",Kungfu Chef
+https://lh3.googleusercontent.com/60E8xMgnlhiFIW5xaqBFawKIeM7v_61U5R3ZUUOgF09R_4oXdGIbW-yOLXwDLnXJpR40WX2y_Hz12I8vIw=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Age: Continental Drift (2012)
+https://lh3.googleusercontent.com/6QwK8RipgMSvRNhioFlgChBB9olLkEaqC_C22acc4Rikl3Pb6ldczJpFdRUqORmJkvHN5VyQyKAIa8msaw=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Terminator
+https://lh3.googleusercontent.com/73B1LCEQ-UN3I_R1A1QAvaSnzVjuAexAxVOOLRsMn0Tt267WHLTYz7og-GIEUjC9yfIXbprMu2nHk0Htag=m22
+#EXTINF:-1 group-title="VOD KIDS",Altered Carbon: Resleeved (2020)
+https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
+#EXTINF:-1 group-title="VOD KIDS",Dragon Nest: Warriors' Dawn (2014)
+https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Frozen
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+#EXTINF:-1 group-title="VOD KIDS",The Incredibles (2004)
+https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Hotel Transylvania 2 (2015)
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Purge: Election Year
+https://lh3.googleusercontent.com/A_AUMJtXnXkPa6XliM22SqqxjEZZpBb75C4I3gl-pT2oCqJd-sjx9z3gXmYF-yhHJYixgyENsYRdgE5TLA=m22
+#EXTINF:-1 group-title="VOD MOVIES",Jurassic World: Fallen Kingdom
+https://lh3.googleusercontent.com/AgxGTf9TJMf87iWFIb3ta0h0hOP3beOmORIdcV9QJHDka_aQQ5zn6yEWBoapJb3JUH5ee3qsIUc2bs2XbA=m22
+#EXTINF:-1 group-title="VOD MOVIES",Okja
+https://lh3.googleusercontent.com/aLxQA9XGhhrPs9petIk0_0wEOIE2_UGzBgspsYEDItBtzz4COBKQFm0TfvWM40f6S6oPFxHaBnUa9zZytA=m22
+#EXTINF:-1 group-title="VOD KIDS",Luis and the Aliens (2018)
+https://lh3.googleusercontent.com/ax1thLqrhCB8Xcy99VYX9ASXAejRZwJgkIhLcTEg5V0Gvxww3PelKkJvYp1eOaECcZukq-6Y1r79MInUnA=m22
+#EXTINF:-1 group-title="VOD KIDS",Mars Needs Moms (2011)
+https://lh3.googleusercontent.com/b6uTzSPgPRA1yo4ugyinFS0TaKpGHrfKKtLjzFbYQtqtOS1psqw95Xx6hlcvGFsYU5akzv47Prwm1MxIOw=m22
+#EXTINF:-1 group-title="VOD KIDS",Ploey (2018)
+https://lh3.googleusercontent.com/By9ezNfZ9dmIC0Qk2vkCfbntcGL6Ybdc13gDV9bAWU85KrBfR45mR_TQOgJmkDUu_XFhKBAJ6cpQqp-HoA=m22
+#EXTINF:-1 group-title="VOD KIDS",Ne Zha (2019)
+https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue4roUSmGdczGLn0yhc6FKnpuHiijTN-apqJ6g=m22
+#EXTINF:-1 group-title="VOD KIDS",Abominable (2019)
+https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Maze Runner: The Death Cure
+https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
+#EXTINF:-1 group-title="VOD KIDS",Cars 3 (2017)
+https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
+#EXTINF:-1 group-title="VOD KIDS",Steven Universe: The Movie (2019)
+https://lh3.googleusercontent.com/E99xqFlfU_4bdUjOk9Ji6qIDSO1TCtjVB9lNThPVww_cVaepGnxYNW3PeB01PDJmuZ-Pdr6jt46IgqlQ7w=m22
+#EXTINF:-1 group-title="VOD KIDS",Incredibles 2 (2018)
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+#EXTINF:-1 group-title="VOD KIDS",Scooby-Doo! and the Curse of the 13th Ghost (2019)
+https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
+#EXTINF:-1 group-title="VOD KIDS",Bilal: A New Breed of Hero (2015)
+https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
+#EXTINF:-1 group-title="VOD KIDS",A Shaun the Sheep Movie: Farmageddon (2019)
+https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
+#EXTINF:-1 group-title="VOD KIDS",Onward (2020)
+https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
+#EXTINF:-1 group-title="VOD KIDS",Racetime (2018)
+https://lh3.googleusercontent.com/fhw3X66GqUCTzmwweS1nZmXO7DslzAcbIrPPF09lTwK-teUh8nIFvPsZEhHownMKQtB7T6mBjVBFYtOGaw=m22
+#EXTINF:-1 group-title="VOD KIDS",Ferdinand (2017)
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",Jurassic Park
+https://lh3.googleusercontent.com/FtPyKsn7f-Rxp9SM0FRYnYfpq0j_EWCTZRwSVEzWE7wih3SlYlP9S97VQ6IA-TVjwxGUNkhTbKmiMPXy3w=m22
+#EXTINF:-1 group-title="VOD KIDS",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Age: Collision Course (2016)
+https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
+#EXTINF:-1 group-title="VOD KIDS",The Big Bad Fox and Other Tales (2017)
+https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Twilight : ECLIPSE (2010)
+https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Coco (2017)
+https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
+#EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda 2 (2011)
+https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Frozen 2
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Ralph Breaks the Internet (2018)
+https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
+#EXTINF:-1 group-title="VOD KIDS",Wreck-It Ralph (2012)
+https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+#EXTINF:-1 group-title="VOD KIDS",Scooby-Doo! (2005)
+https://lh3.googleusercontent.com/Hca942oPRyaQMmYwrXXyVT3cbvkPFUcf0awP6SdBQTbX5cayhCHi429tLeEjE8ZyMngLxy5nzKlZiKAe5w=m22
+#EXTINF:-1 group-title="VOD KIDS",G-Force (2009)
+https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc40gEeqdxO8cQKFxZOtEEUiBVyvNt2K-zdNEEQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Purge: Anarchy
+https://lh3.googleusercontent.com/hIX3IZEa2ve1srImQFk_9K8wSlar9MNmjmHygB9J7aYWTIQU4iqY4BTJehkZYSbC7dEn9D8DL2_BUhBvTg=m22
+#EXTINF:-1 group-title="VOD MOVIES",Batman Begins (2005)
+https://lh3.googleusercontent.com/HLVduzzMHSqVwBbMmLuj1MfwZtDm-B9I6ipRlJBZfTuwMsFXmU6kUWdbjS-GCmAUI1v9lNPsNTXmz7XBww=m22
+#EXTINF:-1 group-title="VOD KIDS",Spider-Man: Into the Spider-Verse (2018)
+https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
+#EXTINF:-1 group-title="VOD KIDS",Tad: The Explorer (2012)
+https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
+#EXTINF:-1 group-title="VOD KIDS",Moana (2016)
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+#EXTINF:-1 group-title="VOD KIDS",Monster Inc.
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Maze Runner: The Scorch Trials (2015)
+https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Maze Runner
+https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
+#EXTINF:-1 group-title="VOD KIDS",BoBoiBoy: The Movie (2016)
+https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
+#EXTINF:-1 group-title="VOD KIDS",How to Train Your Dragon 2 (2014)
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",Kungfu Master
+https://lh3.googleusercontent.com/klkP35A4fD1Kq6Cy1S3dbTAtpAAVUIDIknqekHI4G4GG04f34G1fwAUauJ8L8tbcZO4ALTGfBpkMmNp8NA=m22
+#EXTINF:-1 group-title="VOD KIDS",War of the Worlds: Goliath (2012)
+https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
+#EXTINF:-1 group-title="VOD KIDS",Woody Woodpecker (2017)
+https://lh3.googleusercontent.com/LAO2jlag3W5IvX5S1oRmvIc77JKlhtfvkHVTC3NxJgRWsdyDtwk17HKkJvx_gQzYJnV6CmyYqQx78l8onQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Big Hero 6 (2014)
+https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
+#EXTINF:-1 group-title="VOD KIDS",Rio 2 (2014)
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+#EXTINF:-1 group-title="VOD KIDS",How to Train Your Dragon: The Hidden World (2019)
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+#EXTINF:-1 group-title="VOD KIDS",The Emoji Movie (2017)
+https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
+#EXTINF:-1 group-title="VOD KIDS",Pokémon the Movie: The Power of Us (2018)
+https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
+#EXTINF:-1 group-title="VOD KIDS",Cars (2006)
+https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
+#EXTINF:-1 group-title="VOD KIDS",Next Gen (2018)
+https://lh3.googleusercontent.com/NyW6KtjebzkRDEgarfoj4raUDwjirHptpKikrn2vkw_kTWjrRkKA4wVr1TmFPtfrwAKfOK8bt60bAVtAEQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Lost World: Jurassic Park
+https://lh3.googleusercontent.com/oDW3TVT0Mgef0UAaPggqRrfnHnJLadJhZvdzC8OIj2IVsWQLqR3_j5G1i4XXoKxOdQOuFpYczQx6hNLoNQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Spies in Disguise (2019)
+https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
+#EXTINF:-1 group-title="VOD MOVIES",Batman: The Dark Knight (2008)
+https://lh3.googleusercontent.com/OXw9QDYThjRhY7mIZzzjgcFY1d1hudDPWrwprmb3QtQsBXgBlgZL3Xs4l_4pvPsQ2vaGWMgQ3cuNJetvVA=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Princess Lily (2018)
+https://lh3.googleusercontent.com/P3PiUglF1AVAY2uqaNaDMiQPW9NOxbQuwttFpC-Di21C_ttxtcoEMk0pybUAWOMXWC2A2AfAKcami9xovw=m22
+#EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda (2008)
+https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
+#EXTINF:-1 group-title="VOD KIDS",The Snow Queen 2 (2014)
+https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
+#EXTINF:-1 group-title="VOD KIDS",The Boss Baby (2017)
+https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
+#EXTINF:-1 group-title="VOD KIDS",White Snake (2019)
+https://lh3.googleusercontent.com/RamGmf47xAzSLk9JDJNlfTD_l3aeAKBzjSlOTBDo_Jw30u6fCcz-Pnq1D_8AUO0u5sVMKcesaGeAkayBwg=m22
+#EXTINF:-1 group-title="VOD MOVIES",The Twilight : NEW MOON (2009)
+https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
+#EXTINF:-1 group-title="VOD KIDS",BoBoiBoy Movie 2 (2019)
+https://lh3.googleusercontent.com/s_n63JhY1Nh1upoyAT6L653V9BrfKXxrcNbG7zODPUjjD_F4QBeHWxjFshWW3JCYdG4A_X-kx2w3E4xm4w=m22
+#EXTINF:-1 group-title="VOD KIDS",Ice Age: Dawn of the Dinosaurs (2009)
+https://lh3.googleusercontent.com/S4U5m_bep6TYRYiAIqCmDL8sEzMFZD9QqTe6u_aQjqtJgD6uGSnfKQ-YYWGGGyWcFEm9pbiBhE97JRLlKQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Peter Rabbit (2018)
+https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
+#EXTINF:-1 group-title="VOD KIDS",Playmobil: The Movie (2019)
+https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",Dragon Blade
+https://lh3.googleusercontent.com/ShD9GW1BPcJLCTz4xv2IEp15i4jgEg9ateA40i7Wt-arbAUnYCJ-ZceoJdpMf6H0naX88Hh1gMGgHBjUqw=m22
+#EXTINF:-1 group-title="VOD MOVIES",The First Purge
+https://lh3.googleusercontent.com/tXebnhmXhLGFPrwD9n3tAiqQ_D1mAsTTspEbLXR8GBNypKmHLTPvLKWIiMfeBWIXOvnfrfizZ8x_nFoe1g=m22
+#EXTINF:-1 group-title="VOD MOVIES",Shaolin Soccer
+https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
+#EXTINF:-1 group-title="VOD KIDS",The Breadwinner (2017)
+https://lh3.googleusercontent.com/uMgnRZ7dVhTAZ-jF4yb655NXUd-h4-YWxng7S0SVVozx40O0DAT09G4GtzHn08KtdVWkvLPvjd4K0hnh9A=m22
+#EXTINF:-1 group-title="VOD MOVIES",Jurassic Park III
+https://lh3.googleusercontent.com/uzS0DmZAjntytnnu7-DY3Kj3xNwGmKcfYNNd5cBRauOsG7vfs8l6SczUjBi0XjrPUnp8KKokKfVDuc-gHA=m22
+#EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda 3 (2016)
+https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+#EXTINF:-1 group-title="VOD KIDS",The Snow Queen 3 (2016)
+https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
+#EXTINF:-1 group-title="VOD KIDS",The Animatrix (2003)
+https://lh3.googleusercontent.com/w-rIc-U5JWPeWNmb6LDLy99o9A03aSqPYK9IdxF8EDDOPCJvSQEKbUfIuBHTwIf6-KkQYj7CSlwL3NePoQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Aladin (1993)
+https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+#EXTINF:-1 group-title="VOD KIDS",The Addams Family (2019)
+https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Rio (2011)
+https://lh3.googleusercontent.com/YXp1lzZCyBQzdw7y9WQzHxlkRHbLc9zR6aEILB-5DAaYXjwSNrlRXvah-s99e_nSkl2unwrO1DXIVUCSrg=m22
+#EXTINF:-1 group-title="VOD KIDS",Throne of Elves (2016)
+https://lh3.googleusercontent.com/z64bQSz2Xc9fAAr467xapW9CrGzs5Mi4EIlWttapanaalcCHLqrmkw2yYT8F6cAVGgAUcIwBCHxrxiTJyQ=m22
+#EXTINF:-1 group-title="VOD KIDS",Cinderella the Cat (2017)
+https://lh3.googleusercontent.com/ZeKk8aw26Vle_JgcDATloql64Y8UiMENzgMER2RMRujbGayebdkUum099Mp5T3WhQrs1GoLcvsvFjyKWvw=m22
+#EXTINF:-1 group-title="VOD KIDS",Cars 2 (2011)
+https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
+#EXTINF:-1 group-title="VOD KIDS",Tarzan (2013)
+https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
+#EXTINF:-1 group-title="VOD KIDS",The Snow Queen  (2012)
+https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Chamber Of Secrets (2002)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959682
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Prisoner Of Azkaban (2004)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959683
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Goblet Of Fire (2005)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959684
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Order Of The Phoenix (2007)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959685
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Half-Blood Prince (2009)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959686
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 1 (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
+#EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 2 (2011)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
+#EXTINF:-1 group-title="VOD MOVIES",Depan Bisa Belakang Bisa (1987)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959697
+#EXTINF:-1 group-title="VOD MOVIES",Bebas Aturan Main (1993)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959699
+#EXTINF:-1 group-title="VOD MOVIES",Pencet Sana Pencet Sini (1994)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701
+#EXTINF:-1 group-title="VOD MOVIES",Ip Man (2008)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
+#EXTINF:-1 group-title="VOD MOVIES",Ip Man 2 (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959707
+#EXTINF:-1 group-title="VOD MOVIES",Ip Man 3 (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
+#EXTINF:-1 group-title="VOD MOVIES",Ip Man and Four Kings (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
+#EXTINF:-1 group-title="VOD MOVIES",Master Z: The Ip Man Legacy (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
+#EXTINF:-1 group-title="VOD MOVIES",Dragon Blade (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959715
+#EXTINF:-1 group-title="VOD MOVIES",Detective Chinatown 2 (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959716
+#EXTINF:-1 group-title="VOD MOVIES",Detective Dee: The Four Heavenly Kings (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959717
+#EXTINF:-1 group-title="VOD MOVIES",Hidden Man (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959718
+#EXTINF:-1 group-title="VOD MOVIES",Iceman: The Time Traveller (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
+#EXTINF:-1 group-title="VOD MOVIES",Kill Zone 2 (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959720
+#EXTINF:-1 group-title="VOD MOVIES",Kung Fu Chefs (2009)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959721
+#EXTINF:-1 group-title="VOD MOVIES",Kung Fu Hustle (2004)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959722
+#EXTINF:-1 group-title="VOD MOVIES",Kung Fu Monster (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
+#EXTINF:-1 group-title="VOD MOVIES",Let the Bullets Fly (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959725
+#EXTINF:-1 group-title="VOD MOVIES",Monster Hunt 2 (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959726
+#EXTINF:-1 group-title="VOD MOVIES",Operation Red Sea (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959727
+#EXTINF:-1 group-title="VOD MOVIES",Peak Rescue (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959728
+#EXTINF:-1 group-title="VOD MOVIES",Shock Wave (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959730
+#EXTINF:-1 group-title="VOD MOVIES",Shaolin Soccer (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959731
+#EXTINF:-1 group-title="VOD MOVIES",Sky Hunter (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959732
+#EXTINF:-1 group-title="VOD MOVIES",The Man from Macau (2014)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
+#EXTINF:-1 group-title="VOD MOVIES",From Vegas to Macau II (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959734
+#EXTINF:-1 group-title="VOD MOVIES",The Whistleblower (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959737
+#EXTINF:-1 group-title="VOD MOVIES",The Wind Guardians (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959738
+#EXTINF:-1 group-title="VOD MOVIES",The Monkey King Caused Havoc in Dragon Palace (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
+#EXTINF:-1 group-title="VOD MOVIES",The Wandering Earth (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959741
+#EXTINF:-1 group-title="VOD MOVIES",Triple Threat (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959742
+#EXTINF:-1 group-title="VOD MOVIES",War Shura (2020)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959743
+#EXTINF:-1 group-title="VOD MOVIES",Wolf Warrior (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959744
+#EXTINF:-1 group-title="VOD MOVIES",Wolf Warrior 2 (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959745
+#EXTINF:-1 group-title="VOD MOVIES",Xian qiu da zhan (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959746
+#EXTINF:-1 group-title="VOD MOVIES",We Are Legends (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959747
+#EXTINF:-1 group-title="VOD MOVIES",Kim Ji-young Born 1982 (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959775
+#EXTINF:-1 group-title="VOD MOVIES",Midnight Runners (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959776
+#EXTINF:-1 group-title="VOD MOVIES",Miss n Mrs. Cops (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959777
+#EXTINF:-1 group-title="VOD MOVIES",Metamorphosis (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959780
+#EXTINF:-1 group-title="VOD MOVIES",Mr. Zoo The Missing (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959781
+#EXTINF:-1 group-title="VOD MOVIES",Memoir of a Murderer (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959782
+#EXTINF:-1 group-title="VOD MOVIES",Monstrum (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959783
+#EXTINF:-1 group-title="VOD MOVIES",New World (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959784
+#EXTINF:-1 group-title="VOD MOVIES",Nailed (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959785
+#EXTINF:-1 group-title="VOD MOVIES",Okja (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959786
+#EXTINF:-1 group-title="VOD MOVIES",Operation Chromite (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959787
+#EXTINF:-1 group-title="VOD MOVIES",On Your Wedding Day (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959788
+#EXTINF:-1 group-title="VOD MOVIES",Rampant (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959791
+#EXTINF:-1 group-title="VOD MOVIES",Secretly Greatly (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959792
+#EXTINF:-1 group-title="VOD MOVIES",Stand by Me (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959793
+#EXTINF:-1 group-title="VOD MOVIES",Steel Rain (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959794
+#EXTINF:-1 group-title="VOD MOVIES",The Divine Fury (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959795
+#EXTINF:-1 group-title="VOD MOVIES",The Odd Family Zombie On Sale (2019 )
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959796
+#EXTINF:-1 group-title="VOD MOVIES",The Wailing (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959797
+#EXTINF:-1 group-title="VOD MOVIES",The Prison (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959798
+#EXTINF:-1 group-title="VOD MOVIES",The Outlaws (2017)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959799
+#EXTINF:-1 group-title="VOD MOVIES",The Age of Shadows (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959800
+#EXTINF:-1 group-title="VOD MOVIES",The Warriors Way (2010)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
+#EXTINF:-1 group-title="VOD MOVIES",The Host (2006)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
+#EXTINF:-1 group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS",Redbull TV 2
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 group-title="SPORTS",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="SPORTS",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",77.Crisis (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",78.The College Admissions Scandal (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",79.Road to Damascus (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",80.The Wife (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",83.Girl in the Basement (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",84.The Dead of Night (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",85.Cherry (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",86.The Girl on the Train (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",88.Silk Road (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",90.Alice Fades Away (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",91.Paradise Cove (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",92.Faceless (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",95.Doors (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",96.Expiry (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",100.Judas and the Black Messiah (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",102.Phobias (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",103.60 Seconds to Di3 (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",104.Dreamcatcher (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",105.Stay Out of the F**king Attic (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",106.Come True (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",109.Blood Brothers (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",112.American Liar (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",114.Held (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",116.Dawn of the Beast (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",117.Shook (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",118.Wrong Turn (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",119.Sator (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",121.The Canyonlands (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",123.The Red Nightmare (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",126.Trust(2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",128.Wildcat (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",129.The Arbors (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",131.Payback (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",134.Bliss (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",135.Red Dot (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",137.Drishyam 2 (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",138.Dream About Face-Change Comes True (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",139.HILO 2 (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",140.Land (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",141.The Mauritanian (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",147.Moxie (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",153.Squared Love (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",155.Barb and Star Go to Vista Del Mar (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",156.Paranormal Prison (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",157.Proud of Love (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",162.The Right One (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
