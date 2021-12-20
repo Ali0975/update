@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES",SOLH TV
-http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES",TV ELEVEN
 http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="SPORTS",Ad Sport 1
@@ -11,22 +9,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="HIBURAN",HBO CINEMAX
-http://eroz84.wap.sh/movies/cinemax.m3u8
-#EXTINF:-1 group-title="HIBURAN",HBO Family
-http://eroz84.wap.sh/movies/hbo_fam.m3u8
-#EXTINF:-1 group-title="HIBURAN",RED HBO
-http://eroz84.wap.sh/movies/hbo_red.m3u8
-#EXTINF:-1 group-title="NEWS",MX Live
-http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 group-title="NEWS",Tokyo MX 1
-http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS",Tokyo MX 2
-http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS",WINI LIVE
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",RETURN OF XANDER CAGE (2017)
 http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
 #EXTINF:-1 group-title="VOD MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
@@ -39,8 +21,6 @@ http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
 http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
 #EXTINF:-1 group-title="VOD MOVIES",AQUAMAN (2018)
 http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
-#EXTINF:-1 group-title="NEWS",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",3 Ninjas (1992)
 http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
 #EXTINF:-1 group-title="VOD MOVIES",3 Ninjas Kick Back (1994)
@@ -291,22 +271,12 @@ http://www.deadlyblogger.com/NewRelease/troll2.mp4
 http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
 #EXTINF:-1 group-title="VOD MOVIES",X-Men (2000)
 http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-#EXTINF:-1 group-title="SPORTS",Horizon Sports
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORTS",Cycle World
-https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS",ACCDN 2
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORTS",MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS",MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1 group-title="SPORTS",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 group-title="SPORTS",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORTS",Sportskool TV (720p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:-1 group-title="NEWS",TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Battle Royale (2000) [EN-Subs]
@@ -693,60 +663,8 @@ https://archive.org/download/wiys-wonand-2021/WiysWonand2021.mp4
 https://archive.org/download/wrog-tn-2021/WrogTn2021.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Why Did You Kill Me?
 https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
-#EXTINF:-1 group-title="SPORTS",Fox Sport
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="NEWS",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="HIBURAN",Travel Channel
-https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Sony BBC Earth HD
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Colors Cineplex HD
-https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Sony Six HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",History Channel
-https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
-#EXTINF:-1 group-title="KIDS",Marvel HQ HD
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Ten 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 group-title="KIDS",Disney Channel
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Ten 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 group-title="KIDS",Nick HD+
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",History 2 Channel
-https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet Eng
-https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Sony Max HD
-https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Turbo
-https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery
-https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
 #EXTINF:-1 group-title="HIBURAN",Outdoor Channel
 https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
-#EXTINF:-1 group-title="MOVIES",UTV Movies International
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Eurosport HD
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Science
-https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Zee Cinema SD
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Love Nature HD
-https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX ACTION MOVIES
-https://gratismkctv.net/film/foxactionmovies.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX MOVIES
-https://gratismkctv.net/film/foxmovies.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO
-https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="VOD KIDS",Superman: Red Son (2020)
 https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
 #EXTINF:-1 group-title="VOD MOVIES",Terminator 2: Judgement Day
