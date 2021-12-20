@@ -1122,6 +1122,12 @@ http://51.210.199.40/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/aOdvm9T.png" ,Manoto Tv
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
+#EXTINF:-1 group-title="Iran" tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+
+#EXTINF:-1 group-title="Iran" tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/oeiaea6.png" ,Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+
 #EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" ,PERSIANA + 
 http://51.210.199.21/hls/stream.m3u8
 
@@ -1185,14 +1191,8 @@ http://51.210.199.9/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" tvg-id="AllSports.ir" tvg-logo="N/A" ,All Sports
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 
-#EXTINF:-1 group-title="Iran" tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian 
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-
 #EXTINF:-1 group-title="Iran" tvg-id="iFILMCINE.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ir-ifilm-4421.jpg" ,iFILM CINE
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/oeiaea6.png" ,Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1 group-title="Iran" tvg-id="KalemehTV.ir" tvg-logo="https://i.imgur.com/HQjLbwm.png" ,Kalemeh TV
 https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
@@ -1220,9 +1220,6 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Iran" tvg-id="ParnianTV.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" ,Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 
 #EXTINF:-1 tvg-id="4UTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Iran",4U TV 
 http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
