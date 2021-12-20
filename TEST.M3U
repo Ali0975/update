@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",MNC
-http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",RCTI
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA",GLOBAL TV
