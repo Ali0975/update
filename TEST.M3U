@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="IRAN",TV ELEVEN
+#EXTINF:-1 group-title="Iran",TV ELEVEN
 http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="SPORTS",Ad Sport 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
