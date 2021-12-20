@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES",TV ELEVEN
+#EXTINF:-1 group-title="IRAN",TV ELEVEN
 http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="SPORTS",Ad Sport 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -7,7 +7,7 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="SPORTS",Ad Sport 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",LoveNature
+#EXTINF:-1 group-title="DOCUMENTARY",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",RETURN OF XANDER CAGE (2017)
 http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
