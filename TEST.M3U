@@ -1,54 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",RCTI
-https://cdn-livetv-studio.metube.id/rcti.m3u8
-#EXTINF:-1 group-title="INDONESIA",GLOBAL TV
-https://cdn-livetv-studio.metube.id/globaltv.m3u8
-#EXTINF:-1 group-title="INDONESIA",INEWS
-https://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIA",TV Ku
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Bandung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Yogyakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 group-title="MOVIES",Sinema Indonesia
-http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI
-http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="KIDS",ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 group-title="MOVIES",KIX
-http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="MOVIES",AXN
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="KIDS",ANIMAX
-http://210.210.155.35:80/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="MOVIES",BLUE ANT EXTREME
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="MOVIES",BLUE ANT ENTERTAINMENT
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="MOVIES",TVN
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="MOVIES",TVN MOVIES
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",NET TV
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",RTV
-http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 group-title="MOVIES",CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 group-title="NEWS",FRANCE 24
@@ -91,26 +41,6 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="MOVIES",BLUE ANT EXTREME ID
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TV ONE
-http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
-#EXTINF:-1 group-title="INDONESIA",SCTV
-http://45.126.83.51/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS TV
-http://45.126.83.51/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://45.126.83.51/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",NET TV
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
-http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",RAJAWALI TV
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",DAAI TV
-http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
 #EXTINF:-1 group-title="MOVIES",EURONEWS TV
 http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
 #EXTINF:-1 group-title="NEWS",ALJAZEERA ARABIC
@@ -129,14 +59,10 @@ http://45.126.83.51/uq2663/h/h01/index2.m3u8
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 group-title="MOVIES",KIX ID
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",K PLUS
-http://45.126.83.51/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="MOVIES",AXN
 http://45.126.83.51/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="MOVIES",ENTERTAINMENT
 http://45.126.83.51/uq2663/h/h10/index2.m3u8
-#EXTINF:-1 group-title="INDONESIA",Trans 7
-http://45.126.83.51/uq2663/h/h11/index2.m3u8
 #EXTINF:-1 group-title="SPORTS",SOCCER TV
 http://45.126.83.51/uq2663/h/h20/index2.m3u8
 #EXTINF:-1 group-title="NEWS",CHANNEL NEWS ASIA
@@ -159,8 +85,6 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES",TV ELEVEN
 http://51.210.199.43/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="INDONESIA",ADI TV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Ad Sport 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="SPORTS",Ad Sport 3
@@ -171,40 +95,12 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="INDONESIA",Kompas TV
-http://cdn4.mbahnunungonline.net/m3u8/id/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNN Indonesia
-http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
-http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
-#EXTINF:-1 group-title="INDONESIA",Global TV
-http://eroz84.wap.sh/local/gtv.m3u8
-#EXTINF:-1 group-title="INDONESIA",Inspira TV
-http://eroz84.wap.sh/local/inspira.m3u8
-#EXTINF:-1 group-title="INDONESIA",MNC
-http://eroz84.wap.sh/local/mnc.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
-http://eroz84.wap.sh/local/rcti.m3u8
-#EXTINF:-1 group-title="INDONESIA",RRI Net
-http://eroz84.wap.sh/local/rri.m3u8
-#EXTINF:-1 group-title="INDONESIA",RTV
-http://eroz84.wap.sh/local/rtv.m3u8
-#EXTINF:-1 group-title="INDONESIA",SCTV
-http://eroz84.wap.sh/local/sctv.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS
-http://eroz84.wap.sh/local/trans7.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVKU
-http://eroz84.wap.sh/local/tvku.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI SPORTS
-http://eroz84.wap.sh/local/tvri_sport.m3u8
 #EXTINF:-1 group-title="HIBURAN",HBO CINEMAX
 http://eroz84.wap.sh/movies/cinemax.m3u8
 #EXTINF:-1 group-title="HIBURAN",HBO Family
 http://eroz84.wap.sh/movies/hbo_fam.m3u8
 #EXTINF:-1 group-title="HIBURAN",RED HBO
 http://eroz84.wap.sh/movies/hbo_red.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS",MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="NEWS",Tokyo MX 1
@@ -213,82 +109,6 @@ http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS",WINI LIVE
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://nonton.wap.sh/id/001.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-http://nonton.wap.sh/id/002.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS TV
-http://nonton.wap.sh/id/003.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS7
-http://nonton.wap.sh/id/004.m3u8
-#EXTINF:-1 group-title="INDONESIA",MNC TV
-http://nonton.wap.sh/id/005.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
-http://nonton.wap.sh/id/006.m3u8
-#EXTINF:-1 group-title="INDONESIA",GTV
-http://nonton.wap.sh/id/007.m3u8
-#EXTINF:-1 group-title="INDONESIA",INEWS TV
-http://nonton.wap.sh/id/008.m3u8
-#EXTINF:-1 group-title="INDONESIA",SCTV
-http://nonton.wap.sh/id/009.m3u8
-#EXTINF:-1 group-title="INDONESIA",TV ONE
-http://nonton.wap.sh/id/010.m3u8
-#EXTINF:-1 group-title="INDONESIA",METRO TV
-http://nonton.wap.sh/id/011.m3u8
-#EXTINF:-1 group-title="INDONESIA",NET TV
-http://nonton.wap.sh/id/012.m3u8
-#EXTINF:-1 group-title="INDONESIA",RTV
-http://nonton.wap.sh/id/013.m3u8
-#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
-http://nonton.wap.sh/id/014.m3u8
-#EXTINF:-1 group-title="INDONESIA",BERITA SATU
-http://nonton.wap.sh/id/015.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNN INDONESIA
-http://nonton.wap.sh/id/016.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
-http://nonton.wap.sh/id/017.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI
-http://nonton.wap.sh/id/018.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI 3 Budaya
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Aceh
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Bali
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Bengkulu
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Jambi
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Jawa Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Kalbar
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Kalsel
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Kalteng
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Kaltim
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Lampung
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Papua
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Riau
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Sulsel Makasar
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Sulteng Palu
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Sulut Manado
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI Sumatra Selatan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",RETURN OF XANDER CAGE (2017)
 http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
 #EXTINF:-1 group-title="VOD MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
@@ -303,16 +123,6 @@ http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
 http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
 #EXTINF:-1 group-title="NEWS",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="INDONESIA",GTV
-http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
-#EXTINF:-1 group-title="INDONESIA",INews
-http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
-#EXTINF:-1 group-title="INDONESIA",Metro TV
-http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
-#EXTINF:-1 group-title="INDONESIA",MNC TV
-http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
-http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",3 Ninjas (1992)
 http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
 #EXTINF:-1 group-title="VOD MOVIES",3 Ninjas Kick Back (1994)
@@ -967,22 +777,8 @@ https://archive.org/download/wrog-tn-2021/WrogTn2021.mp4
 https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="INDONESIA",Jakarta Globe
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="NEWS",JAKARTA GLOBE NEWS
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u8
 #EXTINF:-1 group-title="NEWS",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="INDONESIA",iNews
-https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
-#EXTINF:-1 group-title="INDONESIA",RTV
-https://cdn4.mbahnunungonline.net/m3u8/id/590642f0a31efa3.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
-#EXTINF:-1 group-title="INDONESIA",MNC TV
-https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
-#EXTINF:-1 group-title="INDONESIA",GTV
-https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 group-title="HIBURAN",Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Discovery HD
