@@ -1256,3 +1256,126 @@ http://51.210.227.132/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Toonix.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Toonix 
 http://51.210.227.134/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" ,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" ,Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" ,Bloomberg Quicktake AU
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/aqMhht6.png" ,Clubbing TV AU
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/jUWffic.png" ,Filmzie AU
+https://filmzie-filmzie-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/XboGSjX.png" ,Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/DZD4jTq.png" ,Gusto TV
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/r5Ip3P0.png" ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/gKNP2Gd.png" ,Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/iVw55kC.png" ,Introuble TV
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/VSiG39E.png" ,Inwild TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder TV
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder 2 TV
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" ,Juice TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/SQInLji.png" ,Mytime Movies AU
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yz0J7UZ.png" ,Now 70's AU
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Dq1vSHe.png" ,Now 80's AU
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" ,Now 90's AU
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/mcUDAhZ.png" ,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/z8O4Dl6.png" ,Real Families AU
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" ,Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" ,Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" ,Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/weNdD7r.png" ,Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yuRa9lM.png" ,Tastemade AU
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/9JTMh3F.jpg" ,Timeline AU
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Rb3OrsM.png" ,Trace Sport Stars AU
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/protQzs.png" ,Trace Urban AU
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" ,VENN
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="AusBizTV.au" tvg-logo="N/A" ,Aus Biz TV
+https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="MaoriTelevision.au" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" ,Maori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10  
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+
+#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold  
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+
+#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach  
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+
+#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+
+#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Australia",Juice TV 
+https://juicex.nz/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-chno="1912" tvg-id="Juice TV" tvg-logo="https://i.mjh.nz/.images/tv.juice.png",Juice TV
+https://i.mjh.nz/nz/tv.juice.m3u8
