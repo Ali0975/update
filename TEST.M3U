@@ -2540,5 +2540,26 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959810
 
 
 
-
-
+#    Documentary Channels 
+#
+#######################################################
+#EXTINF:-1 tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/doc.jpg" group-title="Document",[I][B][COLOR darkorange]— Documentory —[/COLOR][/B][/I]
+http://null
+#EXTINF:-1, tvg-logo="https://i.imgur.com/UENnBZQ.jpg" group-title="Documentary",[I][B][COLOR red]New [/COLOR] [/B][/I]American Heroes Channel
+http://channelpear.com/watch/?id=21672&u=346564&k=b1UydzEwcHVESllFa3hZdzVINnFLR1ZVaHBtdTZab2hRYytDdlYycmRhRT0%3D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",[I][B][COLOR red]New [/COLOR] [/B][/I]National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media)
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (Earth from ISS)
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public Alternate)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media Alternate)
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 3 (ISS Alternate)
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 4 (ISS 480p Cam)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
