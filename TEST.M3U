@@ -3656,10 +3656,28 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 #######################################################
 
-#EXTINF: -1 tvg-id="home4k" tvg-name="Home 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/home_4k.png" group-title="Popularne", Home 4K
-https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397370
 
-
-
+#EXTINF: -1 tvg-id="eumusic" tvg-name="EU Music HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/eu-music.png" group-title="Muzyka", EU Music HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397319
+#EXTINF: -1 tvg-id="PUBLIC_PERVIY_MUZIKALNIY_HD" tvg-name="First Music Channel HD" group-title="Muzyka", First Music Channel HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397320
+#EXTINF: -1 tvg-id="mbu" tvg-name="Music Box HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Music+Box+UA+HD.png" group-title="Muzyka", Music Box HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397321
+#EXTINF: -1 tvg-id="NTV_VIVA" tvg-name="VIVA" tvg-logo="http://my.teleelevidenie.com/assets/logo/VIVA.png" group-title="Muzyka", VIVA
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397322
+#EXTINF: -1 tvg-id="TraceUrban.eu" tvg-name="Trace Urban HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/trace_urban_hd.png" group-title="Muzyka", Trace Urban HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397323
+#EXTINF: -1 tvg-id="iconcerts_hd" tvg-name="Stingray iConcerts HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/iconcerts.png" group-title="HD Каналы", Stingray iConcerts HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397306
+#EXTINF: -1 tvg-id="Classica.eu" tvg-name="Stingray Classica HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Stingray+Classica.png" group-title="HD Каналы", Stingray Classica HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397362
+#EXTINF: -1 tvg-id="LoveNature.eu" tvg-name="Love Nature HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Love_Nature_TV.png" group-title="HD Каналы", Love Nature HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397364
+#EXTINF: -1 tvg-id="MyZen.nl" tvg-name="MyZen 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/MyZen+4K.png" group-title="HD Каналы", MyZen 4K
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397365
+#EXTINF: -1 tvg-id="c-music" tvg-name="Stingray CMusic HD" tvg-logo="http://my.teleelevidenie.com/assets/logo/Stingray+CMusic.png" group-title="HD Каналы", Stingray CMusic HD
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397366
+#EXTINF: -1 tvg-id="WOWTV.us" tvg-name="Wow! 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/WOW+4K.png" group-title="HD Каналы", Wow! 4K
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397367
 
 
