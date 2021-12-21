@@ -3099,30 +3099,6 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 
 ##########################################################
 
-#EXTINF:-1 group-title="ITALY", Rai 1
-http://ott-cdn.ucom.am:80/s29/04.m3u8
-#EXTINF:-1 group-title="ITALY", Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 group-title="ITALY", CNN INT IT
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="ITALY", EURO NEWS IT
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="ITALY"logo="https://static.epg.best/gb/Spike.uk.png", Spike
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
-#EXTINF:-1 group-title="ITALY", SUPER TV IT
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
-#EXTINF:-1 group-title="ITALY", SUPER TV BRESCIA
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 group-title="ITALY" logo="https://static.epg.best/it/Giallo.it.png", Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-#EXTINF:-1 group-title="ITALY" logo="https://static.epg.best/it/Frisbee.it.png", Frisbee
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 group-title="ITALY" logo="https://static.epg.best/it/MotorTrend.it.png", MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 group-title="ITALY" logo="https://static.epg.best/it/NOVE.it.png", Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-
-#########################################################
 
 
 
@@ -3557,12 +3533,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4K TV", FASHION 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="4K TV", ASIA 4K
-http://1.255.204.45:9981/stream/channelid/38708974
-#EXTINF:-1 group-title="4K TV", DREAM 4K
-http://1.255.204.45:9981/stream/channelid/1911924344
-#EXTINF:-1 group-title="4K TV", UMAX 4K
-http://1.255.204.45:9981/stream/channelid/481289914
 
 
 
@@ -3686,7 +3656,34 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 #######################################################
 
-MY STREAM
+#EXTINF:-1 group-title="4K" tvg-id="4620" tvg-name="Discovery Ultra 4K orig" tvg-logo="http://epg.it999.ru/img/4620.png" tvg-rec="0",Discovery Ultra 4K orig
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/10048/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2747" tvg-name="Eurosport 4K" tvg-logo="http://epg.it999.ru/img/2747.png" tvg-rec="3",Eurosport 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4004/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2748" tvg-name="FTV UHD" tvg-logo="http://epg.it999.ru/img/2748.png" tvg-rec="3",FTV UHD
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4005/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2745" tvg-name="Home 4K" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4002/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2800" tvg-name="Insight UHD 4K" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5000/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2801" tvg-name="Love Nature 4K" tvg-logo="http://epg.it999.ru/img/2801.png" tvg-rec="3",Love Nature 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5001/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2802" tvg-name="MyZen TV 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5002/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2755" tvg-name="Stingray Festival 4K" tvg-logo="http://epg.it999.ru/img/2755.png" tvg-rec="3",Stingray Festival 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5006/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2744" tvg-name="TRT 4K" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4001/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2743" tvg-name="Ultra HD Cinema 4K" tvg-logo="http://epg.it999.ru/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4000/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2804" tvg-name="Кино UHD 4K" tvg-logo="http://epg.it999.ru/img/2804.png" tvg-rec="3",Кино UHD 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5004/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2746" tvg-name="Наша Сибирь 4K" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4003/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2803" tvg-name="Русский Экстрим UHD 4K" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Русский Экстрим UHD 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5003/index.m3u
+#EXTINF:0 group-title="4K" tvg-id="2749" tvg-name="Сериал UHD 4K" tvg-logo="http://epg.it999.ru/img/2749.png" tvg-rec="3",Сериал UHD 4K
+http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5005/index.m3u
 
 
 
