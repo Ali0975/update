@@ -3682,11 +3682,11 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 
 
-#EXTM3U
-#EXTM3U
-EXTINF:-1,UK_ABN
+
+
+#EXTINF:-1 group-title="My TV",UK_ABN
 http://54.38.44.6:1234/11111/11111/372
-EXTINF:-1,UK_Animal.Planet
+#EXTINF:-1 group-title="My TV",UK_Animal.Planet
 http://54.38.44.6:1234/11111/11111/906
 
 
