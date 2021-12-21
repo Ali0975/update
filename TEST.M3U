@@ -3656,34 +3656,8 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 #######################################################
 
-#EXTINF:-1 group-title="4K" tvg-id="4620" tvg-name="Discovery Ultra 4K orig" tvg-logo="http://epg.it999.ru/img/4620.png" tvg-rec="0",Discovery Ultra 4K orig
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/10048/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2747" tvg-name="Eurosport 4K" tvg-logo="http://epg.it999.ru/img/2747.png" tvg-rec="3",Eurosport 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4004/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2748" tvg-name="FTV UHD" tvg-logo="http://epg.it999.ru/img/2748.png" tvg-rec="3",FTV UHD
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4005/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2745" tvg-name="Home 4K" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4002/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2800" tvg-name="Insight UHD 4K" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5000/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2801" tvg-name="Love Nature 4K" tvg-logo="http://epg.it999.ru/img/2801.png" tvg-rec="3",Love Nature 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5001/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2802" tvg-name="MyZen TV 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5002/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2755" tvg-name="Stingray Festival 4K" tvg-logo="http://epg.it999.ru/img/2755.png" tvg-rec="3",Stingray Festival 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5006/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2744" tvg-name="TRT 4K" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4001/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2743" tvg-name="Ultra HD Cinema 4K" tvg-logo="http://epg.it999.ru/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4000/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2804" tvg-name="Кино UHD 4K" tvg-logo="http://epg.it999.ru/img/2804.png" tvg-rec="3",Кино UHD 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5004/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2746" tvg-name="Наша Сибирь 4K" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/4003/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2803" tvg-name="Русский Экстрим UHD 4K" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Русский Экстрим UHD 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5003/index.m3u
-#EXTINF:0 group-title="4K" tvg-id="2749" tvg-name="Сериал UHD 4K" tvg-logo="http://epg.it999.ru/img/2749.png" tvg-rec="3",Сериал UHD 4K
-http://bo50uarv.megogo.xyz/iptv/7V87U4BYW3GNVQ/5005/index.m3u
+#EXTINF: -1 tvg-id="home4k" tvg-name="Home 4K" tvg-logo="http://my.teleelevidenie.com/assets/logo/home_4k.png" group-title="Popularne", Home 4K
+https://m3u-editor.com/serve/fb686210-1644-11ec-80dd-439a2b3cb601/381397370
 
 
 
