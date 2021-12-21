@@ -4894,61 +4894,11 @@ https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8
 https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Westerns 4U
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", WLPC Detroit
+#EXTINF:-1 group-title="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", WLPC Detroit
 https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ARABESK MELODI FM
-http://arabeskmelodi.kesintisizyayin.com:8888/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ARABESK RADYO BIZ
-http://dinle.arabeskradyo.biz:2011/;
-#EXTINF:0 type="stream" channelId="3954" group="SUPERSATFORUM_TURKRADYOLAR", ALEM FM
-http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3954" group="SUPERSATFORUM_TURKRADYOLAR", ALEM FM YEDEK
-http://scturkmedya.radyotvonline.com/stream/80/
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", AKSARAY FM
-http://yayin.yayindakiler.com:4010/;stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", BURSA FM
-http://yayin.bursafm.com.tr:1055/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", CEMRE FM
-http://yayin1.canliyayin.org:8024/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", DAMAR FM
-http://yayin.damarfm.com:8080/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", DERYA FM
-http://nonstopkonya.canliyayinda.com:9898/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", DOST FM
-http://yayin.dostfm.com:8920/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ENDERUN FM
-http://yayin2.canliyayin.org:7052/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ELAZIG MAVIRADYO
-https://ssl.elazigmaviradyo.com/ssl/6066
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", KARDELEN FM
-http://dinle.kardelenfm.com:2000/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", KRAL FM
-http://kralwmp.radyotvonline.com:80/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ISTANBUL FM
-http://45.32.154.169:9300/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", POWER FM
-http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO D
-https://radyo.duhnet.tv/ak_dtvh_radyod?
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO HAZAR
-http://radyohazar.canliyayinda.com:8286/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO EFKAR FM
-https://20133.live.streamtheworld.com/SC008_SO1_SC?/;stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO 10
-http://yayin.asymedya.com:8040/
-#EXTINF:0 type="stream" channelId="2251" group="SUPERSATFORUM_TURKRADYOLAR", RADYO VIVA
-https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO SHOW
-https://ip169.ozelip.com:10998/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO ODTU
-http://stream.radyoodtu.com.tr/rock;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO DEJAVU
-http://radyodejavu.canliyayinda.com:8054/
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO FENOMEN
-http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
-#EXTINF:0 type="stream" channelId="2965" group="SUPERSATFORUM_TURKRADYOLAR", SHOW RADYO
-http://windows.showradyo.com.tr/;
-#EXTINF:-1 group-title="SUPERSATFORUM_TURKRADYOLAR",SLOW KARADENIZ FM
-http://dinle.slowkaradenizfm.com:9578/;
+
+
+
+
 
 
