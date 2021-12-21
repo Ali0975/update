@@ -4948,7 +4948,7 @@ http://radyodejavu.canliyayinda.com:8054/
 http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
 #EXTINF:0 type="stream" channelId="2965" group="SUPERSATFORUM_TURKRADYOLAR", SHOW RADYO
 http://windows.showradyo.com.tr/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", SLOW KARADENIZ FM
+#EXTINF:-1 group-title="SUPERSATFORUM_TURKRADYOLAR",SLOW KARADENIZ FM
 http://dinle.slowkaradenizfm.com:9578/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", TURKU RADYO
+
 
