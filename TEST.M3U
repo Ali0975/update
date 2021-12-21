@@ -3687,185 +3687,274 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 #######################################################
 
 
-#EXTINF:0,AR: beINSport 1 HD
+#EXTINF:-1 group-title="Sport", beINSport 1 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7749
-#EXTINF:0,AR: beINSport 2 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 2 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7750
-#EXTINF:0,AR: beINSport 3 HD
+
+#EXTINF:-1 group-title="Sport",beINSport 3 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7751
-#EXTINF:0,AR: beINSport 4 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 4 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7752
-#EXTINF:0,AR: beINSport 5 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 5 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7753
-#EXTINF:0,AR: beINSport 6 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 6 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7754
-#EXTINF:0,AR: beINSport 7 HD
+
+#EXTINF:-1 group-title="Sport",beINSport 7 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7755
-#EXTINF:0,AR: beINSport 8 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 8 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7756
-#EXTINF:0,AR: beINSport 9 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 9 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7757
-#EXTINF:0,AR: beINSport 10
+
+#EXTINF:-1 group-title="Sport", beINSport 10
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7758
-#EXTINF:0,AR: beINSport 11 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 11 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7759
-#EXTINF:0,AR: beINSport 12 HD
+
+#EXTINF:-1 group-title="Sport", beINSport 12 HD
 http://sweip.noip.me:9090/menkoiptv/JVGZRwr5oS/7760
-#EXTINF:0,||BEIN|| SPORTS  NEWS
+
+#EXTINF:-1 group-title="Sport", SPORTS  NEWS
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1223
-#EXTINF:0,||BEIN||  Bein Sports 2 HEVC 4K
+
+#EXTINF:-1 group-title="Sport",  Bein Sports 2 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1237
-#EXTINF:0,||BEIN||  Bein Sports 3 HEVC 4K
+
+#EXTINF:-1 group-title="Sport",  Bein Sports 3 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1238
-#EXTINF:0,||BEIN||  Bein Sports 4 HEVC 4K
+
+#EXTINF:-1 group-title="Sport",  Bein Sports 4 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1239
-#EXTINF:0,||BEIN||  Bein Sports 5 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", Bein Sports 5 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1240
-#EXTINF:0,||BEIN||  Bein Sports 6 HEVC 4K
+
+#EXTINF:-1 group-title="Sport",  Bein Sports 6 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1241
-#EXTINF:0,||BEIN||  Bein Sports 7 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", Bein Sports 7 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1242
-#EXTINF:0,||BEIN|| Bein Sports 8 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", Bein Sports 8 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1243
-#EXTINF:0,||BEIN|| Bein Sports 9 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", Bein Sports 9 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1244
-#EXTINF:0,||BEIN|| Bein Sports 10 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", Bein Sports 10 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1245
-#EXTINF:0,||BEIN||  Bein Sports 1 HEVC 4K
+
+#EXTINF:-1 group-title="Sport",  Bein Sports 1 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1236
-#EXTINF:0,||BEIN|| BeIN Sports 11 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", BeIN Sports 11 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1246
-#EXTINF:0,||BEIN|| BeIN Sports 12 HEVC 4K
+
+#EXTINF:-1 group-title="Sport", BeIN Sports 12 HEVC 4K
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/1247
-#EXTINF:0,AR VIP: Bein Sport 1 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 1 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5986
-#EXTINF:0,AR VIP: Bein Sport 10 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 10 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5995
-#EXTINF:0,AR VIP: Bein Sport 11 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 11 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5996
-#EXTINF:0,AR VIP: Bein Sport 12 HD
+
+#EXTINF:-1 group-title="Sport",VIP: Bein Sport 12 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5997
-#EXTINF:0,AR VIP: Bein Sport 2 HD
+
+#EXTINF:-1 group-title="Sport",VIP: Bein Sport 2 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5987
-#EXTINF:0,AR VIP: Bein Sport 3 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 3 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5988
-#EXTINF:0,AR VIP: Bein Sport 4 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 4 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5989
-#EXTINF:0,AR VIP: Bein Sport 5 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 5 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5990
-#EXTINF:0,AR VIP: Bein Sport 6 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 6 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5991
-#EXTINF:0,AR VIP: Bein Sport 7 
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 7 
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5992
-#EXTINF:0,AR VIP: Bein Sport 8 HD
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 8 HD
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5993
-#EXTINF:0,AR VIP: Bein Sport 9 
+
+#EXTINF:-1 group-title="Sport", VIP: Bein Sport 9 
 http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5994
-#EXTINF:-1,BEIN SPORTS NEWS
+
+#EXTINF:-1 group-title="Sport",BEIN SPORTS NEWS
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e1fda29b8f.m3u8
-#EXTINF:-1,BEIN 1 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 1 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e3bd6ad94b.m3u8
-#EXTINF:-1,BEIN 1 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 1 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/79682fd11f.m3u8?
-#EXTINF:-1,BEIN 2 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 2 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7f433a1c10.m3u8
-#EXTINF:-1,BEIN 2 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 2 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/624beefbc7.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 3 
+
+#EXTINF:-1 group-title="Sport",BEIN 3 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/915461b83a.m3u8
-#EXTINF:-1,BEIN 3 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 3 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8
-#EXTINF:-1,BEIN 4 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 4 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadfc3ee8e.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 4 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 4 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/74ac526fff.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 5 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 5 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0613369e0e.m3u8
-#EXTINF:-1,BEIN 5 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 5 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/57e9a1c12c.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 6 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 6 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e9d1f956b0.m3u8
-#EXTINF:-1,BEIN 6 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 6 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7090081cef.m3u8
-#EXTINF:-1,BEIN 7 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 7 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f06271f891.m3u8
-#EXTINF:-1,BEIN 7 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 7 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bb5c759926.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 8 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 8 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7c2d86352c.m3u8
-#EXTINF:-1,BEIN 8 HD_{IPTV4ON موقع}
+
+#EXTINF:-1 group-title="Sport",BEIN 8 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c8258ea7d8.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 9 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 9 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/16a88ce00f.m3u8
-#EXTINF:-1,BEIN 9 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 9 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ecc4c38e47.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 10 SD_{IPTV4ON موقع}
+
+#EXTINF:-1 group-title="Sport",BEIN 10 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/17087669cf.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 10 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 10 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9045c40d50.m3u8
-#EXTINF:-1,BEIN 11 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 11 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a11f431c62.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 11 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 11 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c70ecfd8f9.m3u8
-#EXTINF:-1,BEIN 12 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 12 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadeedd762.m3u8
-#EXTINF:-1,BEIN 12 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 12 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6eb4a7ff4b.m3u8?by?dailyfreeiptv.?blogspot.?com
-#EXTINF:-1,BEIN 13
+
+#EXTINF:-1 group-title="Sport",BEIN 13
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a815fa21c5.m3u8
-#EXTINF:-1,BEIN 1 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 1 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e3bd6ad94b.m3u8
-#EXTINF:-1,BEIN 1 
+
+#EXTINF:-1 group-title="Sport",BEIN 1 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/79682fd11f.m3u8
-#EXTINF:-1,BEIN 2 
+
+#EXTINF:-1 group-title="Sport",BEIN 2 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7f433a1c10.m3u8
-#EXTINF:-1,BEIN 2 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 2 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/624beefbc7.m3u8
-#EXTINF:-1,BEIN 3 
+
+#EXTINF:-1 group-title="Sport",BEIN 3 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/915461b83a.m3u8
-#EXTINF:-1,BEIN 3 
+
+#EXTINF:-1 group-title="Sport",BEIN 3 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8
-#EXTINF:-1,BEIN 4 
+
+#EXTINF:-1 group-title="Sport",BEIN 4 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadfc3ee8e.m3u8
-#EXTINF:-1,BEIN 4 
+
+#EXTINF:-1 group-title="Sport",BEIN 4 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/74ac526fff.m3u8
-#EXTINF:-1,BEIN 5 
+
+#EXTINF:-1 group-title="Sport",BEIN 5 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0613369e0e.m3u8
-#EXTINF:-1,BEIN 5 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 5 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/57e9a1c12c.m3u8
-#EXTINF:-1,BEIN 6 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 6 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e9d1f956b0.m3u8
-#EXTINF:-1,BEIN 6 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 6 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7090081cef.m3u8
-#EXTINF:-1,BEIN 7 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 7 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f06271f891.m3u8
-#EXTINF:-1,BEIN 7 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 7 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bb5c759926.m3u8
-#EXTINF:-1,BEIN 8 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 8 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7c2d86352c.m3u8
-#EXTINF:-1,BEIN 8 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 8 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c8258ea7d8.m3u8
-#EXTINF:-1,BEIN 9 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 9 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/16a88ce00f.m3u8
-#EXTINF:-1,BEIN 9 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 9 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ecc4c38e47.m3u8
-#EXTINF:-1,BEIN 10 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 10 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/17087669cf.m3u8
-#EXTINF:-1,BEIN 10 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 10 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9045c40d50.m3u8
-#EXTINF:-1,BEIN 11 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 11 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a11f431c62.m3u8
-#EXTINF:-1,BEIN 11 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 11 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c70ecfd8f9.m3u8
-#EXTINF:-1,BEIN 12 SD
+
+#EXTINF:-1 group-title="Sport",BEIN 12 SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadeedd762.m3u8
-#EXTINF:-1,BEIN 12 HD
+
+#EXTINF:-1 group-title="Sport",BEIN 12 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6eb4a7ff4b.m3u8
-#EXTINF:-1,BEIN 13
+
+#EXTINF:-1 group-title="Sport",BEIN 13
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a815fa21c5.m3u8
-#EXTINF:-1,Arena Sports 1
+
+#EXTINF:-1 group-title="Sport",Arena Sports 1
 http://stream-e30453a4b.nmbs.top/m3u/Sports/41c5230a79.m3u8
-#EXTINF:-1,Arena Sports 2
+
+#EXTINF:-1 group-title="Sport",Arena Sports 2
 http://stream-e30453a4b.nmbs.top/m3u/Sports/8bdc1aacdf.m3u8
 
 
