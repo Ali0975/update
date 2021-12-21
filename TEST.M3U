@@ -4880,7 +4880,7 @@ https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Safe TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsafetv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Sci-Fi 4U TV
+#EXTINF:-1 group-title="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Sci-Fi 4U TV
 https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
 #EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Shopping 4U
 https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
