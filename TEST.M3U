@@ -3758,7 +3758,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w1968181152.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YABANCI_MUZIK_MODA_KANALLARI" logo="https://1.bp.blogspot.com/-RTsjKEKuJ7U/YU8BVoDuMZI/AAAAAAAAUck/zs00VY3CI0UN6X8UuS9EwU6kmfak5W6pQCLcBGAsYHQ/s300/biztv.jpg", Biz Music HD
 https://st.biztv.uz/hls/m_hi/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="YABANCI_MUZIK_MODA_KANALLARI" logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png", BARAZA TV MUSIC
+#EXTINF:-1 group-title="My TV" logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png", BARAZA TV MUSIC
 https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YABANCI_MUZIK_MODA_KANALLARI" logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png", BARAZA HD-YEDEK
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
@@ -3768,7 +3768,7 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="2228" group="YABANCI_MUZIK_MODA_KANALLARI", Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:0 type="stream" channelId="1915" group="YABANCI_MUZIK_MODA_KANALLARI", EURO DANCE HD
+#EXTINF:-1 group-title="My TV", EURO DANCE HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YABANCI_MUZIK_MODA_KANALLARI" logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w1467262774.m3u8
@@ -3860,7 +3860,7 @@ https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
 https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YENI_RELAX_KANALLAR", Fireplace Lounge 2
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="YENI_RELAX_KANALLAR", Relaxing Rain
+#EXTINF:-1 group-title="My TV", Relaxing Rain
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YENI_RELAX_KANALLAR", Aquarium
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
@@ -3894,15 +3894,15 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YENI_RELAX_KANALLAR", NATURE Waterfalls Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2805" group="ARAB_MBC_PAKET", MBC 1
+#EXTINF:-1 group-title="My TV", MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
-#EXTINF:0 type="stream" channelId="4992" group="ARAB_MBC_PAKET", MBC 2
+#EXTINF:-1 group-title="My TV", MBC 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ARAB_MBC_PAKET", MBC 3
+#EXTINF:-1 group-title="My TV", MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
-#EXTINF:0 type="stream" channelId="4993" group="ARAB_MBC_PAKET", MBC 4
+#EXTINF:-1 group-title="My TV", MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:0 type="stream" channelId="4999" group="ARAB_MBC_PAKET", MBC 5
+#EXTINF:-1 group-title="My TV", MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:0 type="stream" channelId="4989" group="ARAB_MBC_PAKET", MBC DRAMA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
@@ -3912,7 +3912,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
 #EXTINF:0 type="stream" channelId="4991" group="ARAB_MBC_PAKET", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:0 type="stream" channelId="4998" group="ARAB_MBC_PAKET", MBC Iraq
+#EXTINF:-1 group-title="My TV", MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
 #EXTINF:0 type="stream" channelId="495" group="KIRIM_KIRGISIZTAN_OZBEKISTAN_TURKMEN_DIGER_CUMHURIYET_KANALLARI", ATR TV KIRIM
 http://stream.atr.ua/atr/live/index.m3u8
@@ -4058,13 +4058,13 @@ https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", AVANG TV
 http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w609232161.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", I FILM IRAN
+#EXTINF:-1 group-title="My TV", I FILM IRAN
 https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", I FILM 2
 https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", TEHRAN TV
 http://51.210.227.132/hls/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", VOA IRAN
+#EXTINF:-1 group-title="My TV", VOA IRAN
 https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IRAN_OZEL_IPTV_KANALLARI", BOX 247 TV
 https://hls.247box.live/hls/stream.m3u8
@@ -4122,7 +4122,7 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3457" group="ALMANYA_TV_KANALLARI" tvg-country="DE", TVO
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1000" group="ITALYA_TV_KANALLARI", Rai 1
+#EXTINF:-1 group-title="My TV", Rai 1
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 #EXTINF:0 type="stream" channelId="1001" group="ITALYA_TV_KANALLARI", Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
@@ -4512,9 +4512,9 @@ http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 type="stream" channelId="1312" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="https://www.alhayat.tv/images/logo/main.34f5c635.png", Al Hayat
+#EXTINF:-1 group-title="My TV" logo="https://www.alhayat.tv/images/logo/main.34f5c635.png", Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="https://alhorreya.org/images/alhorreya-logo_new.png", Al Horreya
+#EXTINF:-1 group-title="My TV" logo="https://alhorreya.org/images/alhorreya-logo_new.png", Al Horreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg", Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
@@ -4524,7 +4524,7 @@ http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playli
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg", Gulistan News
 https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", Khabar 24
+#EXTINF:-1 group-title="My TV", Khabar 24
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI" logo="https://i.imgur.com/H9dHlfv.png", RTL TELE Letzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
@@ -4582,7 +4582,7 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvmajlis.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", KTV Al Qurain (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvqurain.m3u8
-#EXTINF:0 type="stream" channelId="4986" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", KTV Arabe (1080p)
+#EXTINF:-1 group-title="My TV", KTV Arabe (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvarabi.m3u8
 #EXTINF:0 type="stream" channelId="4985" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", KTV Ethraa (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
@@ -4712,7 +4712,7 @@ https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:0 type="stream" channelId="3745" group="ABD_LATIN_ASYA_TV_KANALLARI", ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", Fairfax Public Access
+#EXTINF:-1 group-title="My TV", Fairfax Public Access
 https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", Galveston County TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
@@ -4742,9 +4742,9 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", NYXT
+#EXTINF:-1 group-title="My TV", NYXT
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", OANN One America News Network
+#EXTINF:-1 group-title="My TV", OANN One America News Network
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ABD_LATIN_ASYA_TV_KANALLARI", Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
@@ -4866,21 +4866,21 @@ https://broadcast.mytvtogo.net/newbeginningtv/newbeginningtv/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsmaxtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", News Net
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsnet/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Nothing Scripted News
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Nothing Scripted News
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnothingscripted30a/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", OAN Plus
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", OAN Plus
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastoannews/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Entertainment
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Entertainment
 https://broadcast.mytvtogo.net/planetcannabis/planetcannabis/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Music
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Music
 https://broadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Shopping
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Planet Cannabis Shopping
 https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Right Now TV
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Right Now TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Safe TV
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Safe TV
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsafetv/playlist.m3u8
-#EXTINF:-1 group-title="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Sci-Fi 4U TV
+#EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Sci-Fi 4U TV
 https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
 #EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Shopping 4U
 https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
