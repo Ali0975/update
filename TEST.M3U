@@ -2544,7 +2544,7 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959810
     
    
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="IPTV_25_KASIM_2021_GUNCEL_LiSTE" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSATFORUM TEASER
+#EXTINF:0 type="stream" channelId="-1" group-title="IPTV_25_KASIM_2021_GUNCEL_LiSTE" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSATFORUM TEASER
 https://www.youtube.com/watch?v=qvQWImapB78
 #EXTINF:0 type="stream" channelId="1056" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
