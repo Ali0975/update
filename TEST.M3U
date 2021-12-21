@@ -3657,10 +3657,11 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 #######################################################
 
 
-#EXTINF:-1 group-title="test" TV 3  
-https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg
-https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/tv 
-https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg
+#EXTINF:-1 tvg-id="412StingrayEverything80s.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Music",412 Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="413StingrayTodaysLatinPop.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Music",413 Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
 
 
 
