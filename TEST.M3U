@@ -3095,22 +3095,7 @@ http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="GERMAN", NDR Hamburg HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", RTL Gold
-https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", RTL Klub YEDEK
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", RTL+
-https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
-#EXTINF:-1 group-title="GERMAN" logo="https://1.bp.blogspot.com/-zS-06PsJIUg/X7veSRO3WoI/AAAAAAAAP1E/MmwCg_sGR9A6Vsg_3l9t6JDtET2UVfvtACLcBGAsYHQ/s0/NOA4.jpg", NOA 4
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 group-title="GERMAN", Sonnenklar.TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="GERMAN" tvg-country="DE", TVO
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
 
 ##########################################################
 
@@ -3696,6 +3681,13 @@ https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 
+
+#EXTM3U
+#EXTM3U
+EXTINF:-1,UK_ABN
+http://54.38.44.6:1234/11111/11111/372
+EXTINF:-1,UK_Animal.Planet
+http://54.38.44.6:1234/11111/11111/906
 
 
 
