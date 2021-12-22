@@ -151,9 +151,8 @@ https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 
-
-#EXTINF:-1 group-title="Australia,DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-country="PL" tvg-language="Polish;English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Lifestyle",BBC Lifestyle (576p) [Geo-blocked]
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 ##################################################################
 NEWS
