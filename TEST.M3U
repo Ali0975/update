@@ -454,7 +454,7 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 group-title="Germany", MUnchen TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="GERMAN", NDR Hamburg HD
+#EXTINF:-1 group-title="Germany", NDR Hamburg HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8#EXTINF:-1 tvg-name="Animals+" tvg-logo="http://images.pluto.tv/channels/5ad9b6f57ef2767e1846e59f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Animals+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=43867960-83bf-11ea-8c80-2f0e09d7945a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ae85c97-0579-48b1-a94f-73392ab42614&userId=
 #EXTINF:-1 tvg-name="Animals" tvg-logo="http://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Animals
