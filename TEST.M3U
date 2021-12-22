@@ -152,25 +152,22 @@ https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 
 
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 
 
-#EXTINF:-1 tvg-id="NationalGeographicRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="Documentary",National Geographic (1080p)
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" 
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="DOCUMENTARY",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Documentary",National Geographic East (720p) [Geo-blocked]
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-country="ASIA" tvg-language="Arabic" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild Asia (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
 
 
 
 ##################################################################
 NEWS
 
-#EXTINF:-1 tvg-name="NHK G Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" group-title="NEWS",NHK G Ⓢ
+
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="NEWS",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd#EXTINF:-1 tvg-name="NHK G Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" group-title="NEWS",NHK G Ⓢ
 @@ -1286,11 +1390,11 @@ 
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
 #EXTINF:-1 group-title="NEWS" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
