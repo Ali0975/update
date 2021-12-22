@@ -152,14 +152,8 @@ https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 
 
-#EXTINF:-1 group-title="Australia"https://i.imgur.com/72knNcb.png"
-| 2   | BBC Two Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> |
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
-| 4   | Channel 4 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
-| 5   | Channel 5 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ji65OXG.png"/> |
-
+#EXTINF:-1 group-title="Australia"https://i.imgur.com/72knNcb.png",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 ##################################################################
 NEWS
