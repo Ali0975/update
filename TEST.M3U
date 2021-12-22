@@ -207,9 +207,7 @@ https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
 
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" ,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/3201026102E1
+
 
 #EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Australia",SBS TV 
 https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8#EXTINF:-1 tvg-id="NITV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" group-title="Australia",NITV 
@@ -227,8 +225,6 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8#EXTINF:-1 tvg-id="ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australia",C31 Melbourne (480p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 (480p)
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 tvg-id="M4TV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="Australia",M4TV (1080p)
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 
@@ -241,9 +237,6 @@ https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/aqMhht6.png" ,Clubbing TV AU
 https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/jUWffic.png" ,Filmzie AU
 https://filmzie-filmzie-2-au.samsung.wurl.tv/playlist.m3u8
@@ -278,16 +271,16 @@ https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/SQInLji.png" ,Mytime Movies AU
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yz0J7UZ.png" ,Now 70's AU
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/yz0J7UZ.png" ,Now 70's AU
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Dq1vSHe.png" ,Now 80's AU
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/Dq1vSHe.png" ,Now 80's AU
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" ,Now 90's AU
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" ,Now 90's AU
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/mcUDAhZ.png" ,Outdoor Channel
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="N/A" tvg-logo="https://i.imgur.com/mcUDAhZ.png" ,Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/z8O4Dl6.png" ,Real Families AU
@@ -302,7 +295,7 @@ https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" ,Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/weNdD7r.png" ,Smithsonian Channel
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="N/A" tvg-logo="https://i.imgur.com/weNdD7r.png" ,Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yuRa9lM.png" ,Tastemade AU
@@ -320,11 +313,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" ,VENN
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English
-https://i.mjh.nz/au/Sydney/tv.46.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-id="AusBizTV.au" tvg-logo="N/A" ,Aus Biz TV
-https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
@@ -334,16 +323,11 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 
 #EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Australia",Juice TV 
-https://juicex.nz/hls/mystream.m3u8
-
 
 #EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Australia",Snowy Mountains Television (1080p) [Not 24/7]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="TravelFoodTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Australia",Travel & Food TV (720p) [Timeout]
-https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+
+
 
 
 
@@ -351,29 +335,24 @@ https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 NEWS
 
 
-
-
+#EXTINF:-1 group-title="NEWS" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS",AL JAZEERA HD 1
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 2
-https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1 group-title="NEWS",BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="NEWS",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="NEWS",NBC
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 group-title="NEWS",TRT NEWS
-http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="NEWS",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 group-title="NEWS",CNBC
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="NEWS",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 group-title="NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NEWS",SKY NEWS
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
+#EXTINF:-1 group-title="NEWS", BLOOMBERG 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 ##################################################################
 
 IRAN
@@ -514,12 +493,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 
 
 
-#EXTINF:-1 group-title="4K TV", CLARITY 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", BLOOMBERG 4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4K TV", LOUPE 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="4K TV", FASHION 4K
@@ -901,13 +874,15 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
 
 
+#EXTINF:-1 group-title="DOCUMENTARY", CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
 
-#EXTINF:-1 group-title="NEWS",TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
 
 ################################################################
