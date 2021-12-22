@@ -1,11 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" ,11 TV
+http://51.210.199.43/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZGSSnbX.png" ,4 Turk Billboard
+http://51.210.199.29/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/hHv1tSI.png" ,4 Turk Music
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/vQHPZd9.jpg" ,AVA Series
+http://51.210.199.4/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/izRMFzC.jpg" ,AVA Family
+http://51.210.199.5/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/CkNisAW.png" ,Avang TV
+http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w913855439.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/heiZw6B.jpg" ,FX Series
+http://51.210.199.52/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" ,Iran Beauty 
+http://51.210.199.57/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/sbQXr.png" ,ITC TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/chunklist_b4628000.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/MRWFcox.jpg" ,Maah TV
+http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LWhslPt.jpg" ,Madar Plus TV
+http://51.210.199.40/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/aOdvm9T.png" ,Manoto Tv
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+
+#EXTINF:-1 group-title="Iran" tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/oeiaea6.png" ,Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" ,PERSIANA + 
+http://51.210.199.21/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/ytII1cO.png" ,PERSIANA BILLBOARD
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/PNgDL7b.png" ,PERSIANA CINEMA
+http://51.210.199.15/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/2r7qMfh.png" ,PERSIANA CLASSIC
+http://51.210.199.26/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/byxZkMi.png" ,PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LeLkpDr.png" ,PERSIANA ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/OG2nMRk.png" ,PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/1EFkWsZ.png" ,PERSIANA FAMILY +
+http://51.210.199.13/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/0y1p9G5.png" ,PERSIANA GAME & TECH
+http://51.210.199.25/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/gIihZfT.png" ,PERSIANA IRANIAN
+http://51.210.199.22/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LmbNidk.png" ,PERSIANA JUNIOR
+http://51.210.199.18/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/pMrAvY6.png" ,PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/lmqXkwa.png" ,PERSIANA NOSTALGIA
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/VkFTibo.jpg" ,PERSIANA SONNATI
+http://51.210.199.59/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" ,Radio Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" ,SL 1
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" ,SL 2
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/HRLVcdL.png" ,T2 TV
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" ,VOX1 TVG
+http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" ,VOX2 TVG
+http://51.210.199.9/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="AllSports.ir" tvg-logo="N/A" ,All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="iFILMCINE.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ir-ifilm-4421.jpg" ,iFILM CINE
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="KalemehTV.ir" tvg-logo="https://i.imgur.com/HQjLbwm.png" ,Kalemeh TV
+https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="MBCPersia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" ,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="PayamJavanTV.ir" tvg-logo="N/A" ,Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="PayamJavanTV.ir" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" ,Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="PBCTapeshTV.ir" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" ,PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="PMC.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" ,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="RangarangTV.ir" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" ,Rangarang TV
+https://iptv.rangarang.us/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="YourTimeTV.ir" tvg-logo="https://yourtime.tv/img/utv-logo.png" ,YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-id="ParnianTV.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" ,Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+
+#EXTINF:-1 tvg-id="4UTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Iran",4U TV 
+http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",AFN TV  
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FARS.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",FARS 
+http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOLESTAN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",GOLESTAN 
+http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HighVision.us" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",High Vision  
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="Iran",Iran International 
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-id="JAHANBIN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",JAHANBIN 
+http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NAVAHANG.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",NAVAHANG 
+http://51.210.227.130/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Persian Film 
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="QAZVIN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",QAZVIN 
+http://cdn1.live.irib.ir:1935/epg-live/smil:qazvin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TehranTV24.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",TehranTV 24 
+http://51.210.227.132/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Toonix.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Toonix 
+http://51.210.227.134/hls/stream.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" ,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" ,Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" ,Bloomberg Quicktake AU
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/aqMhht6.png" ,Clubbing TV AU
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/jUWffic.png" ,Filmzie AU
+https://filmzie-filmzie-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/XboGSjX.png" ,Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/DZD4jTq.png" ,Gusto TV
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/r5Ip3P0.png" ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/gKNP2Gd.png" ,Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/iVw55kC.png" ,Introuble TV
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/VSiG39E.png" ,Inwild TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder TV
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder 2 TV
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" ,Juice TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/SQInLji.png" ,Mytime Movies AU
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yz0J7UZ.png" ,Now 70's AU
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Dq1vSHe.png" ,Now 80's AU
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" ,Now 90's AU
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/mcUDAhZ.png" ,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/z8O4Dl6.png" ,Real Families AU
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" ,Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" ,Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" ,Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/weNdD7r.png" ,Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yuRa9lM.png" ,Tastemade AU
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/9JTMh3F.jpg" ,Timeline AU
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Rb3OrsM.png" ,Trace Sport Stars AU
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/protQzs.png" ,Trace Urban AU
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" ,VENN
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="AusBizTV.au" tvg-logo="N/A" ,Aus Biz TV
+https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="MaoriTelevision.au" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" ,Maori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10  
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+
+#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold  
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+
+#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach  
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+
+#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+
+#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Australia",Juice TV 
+https://juicex.nz/hls/mystream.m3u8
+
+
+#EXTINF:-1 tvg-id="7flix.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" group-title="Australia",7flix [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 tvg-id="7mate.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" group-title="Australia",7mate [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 tvg-id="9Gem.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="Australia",9Gem [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:-1 tvg-id="9Go.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png" group-title="Australia",9Go! [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png" group-title="Australia",9Life [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:-1 tvg-id="9Rush.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png" group-title="Australia",9Rush [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10 (720p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold (540p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach (540p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:-1 tvg-id="10Shake.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png" group-title="Australia",10 Shake [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+#EXTINF:-1 tvg-id="ABCME.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Australia",ABC ME (720p)
+https://c.mjh.nz/101002210224
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p) [Geo-blocked]
+https://c.mjh.nz/101002210220
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002210221
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002310231
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002510251
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002710271
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
+https://c.mjh.nz/101002810281
+#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+#EXTINF:-1 tvg-id="ausbizTV.au" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="Australia",ausbiz TV (720p) [Geo-blocked]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australia",C31 Melbourne (480p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 (480p)
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="M4TV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="Australia",M4TV (1080p)
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Nine.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="Australia",Nine [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 tvg-id="NITV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" group-title="Australia",NITV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" group-title="Australia",SBS Food [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Australia",SBS TV [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" group-title="Australia",SBS Viceland [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" group-title="Australia",SBS World Movies [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1 tvg-id="Seven.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png" group-title="Australia",Seven [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Australia",Snowy Mountains Television (1080p) [Not 24/7]
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
+#EXTINF:-1 tvg-id="TravelFoodTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Australia",Travel & Food TV (720p) [Timeout]
+https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Australia",TVSN (360p) [Not 24/7]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 1
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 2
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF:-1 group-title="NEWS",BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="NEWS",CNN International HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="NEWS",NBC
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="NEWS",TRT NEWS
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="NEWS",CNBC
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="NEWS",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="NEWS",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="NEWS",SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
+http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",HBO  HITS
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/415.m3u8
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/412.m3u8
+#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY PREMIUM
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/413.m3u8
+#EXTINF:-1 group-title="ENHLISH MOVIES",VIU6
+https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
+
+
+
+
+
+################################################################################################
 GERMANY
 
 
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-name="Animals+" tvg-logo="http://images.pluto.tv/channels/5ad9b6f57ef2767e1846e59f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Animals+
+#EXTINF:-1 group-title="Germany", ANIXE HD SERIE
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="Germany", K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="Germany" logo="https://s3.welocal.world/badentv/sources/5f1edbeb6b62c.png", Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="Germany" logo="http://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png", Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="Germany" logo="http://cdn-radiotime-logos.tunein.com/s100563q.png", Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 group-title="Germany", Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany", MUnchen TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="GERMAN", NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8#EXTINF:-1 tvg-name="Animals+" tvg-logo="http://images.pluto.tv/channels/5ad9b6f57ef2767e1846e59f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Animals+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=43867960-83bf-11ea-8c80-2f0e09d7945a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ae85c97-0579-48b1-a94f-73392ab42614&userId=
 #EXTINF:-1 tvg-name="Animals" tvg-logo="http://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Animals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=43867960-83bf-11ea-8c80-2f0e09d7945a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ae85c97-0579-48b1-a94f-73392ab42614&userId=
@@ -269,6 +719,19 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 group-title="SPORTS",ACCDN 2
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 group-title="SPORTS",MMN
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+#EXTINF:-1 group-title="SPORTS",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="NEWS",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="VOD MOVIES",RETURN OF XANDER CAGE (2017)
 http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
 #EXTINF:-1 group-title="VOD MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
@@ -531,14 +994,6 @@ http://www.deadlyblogger.com/NewRelease/troll2.mp4
 http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
 #EXTINF:-1 group-title="VOD MOVIES",X-Men (2000)
 http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-#EXTINF:-1 group-title="SPORTS",ACCDN 2
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORTS",MMN
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1 group-title="SPORTS",World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 group-title="NEWS",TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Battle Royale (2000) [EN-Subs]
 https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Tom & Jerry 2
@@ -1249,13 +1704,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959800
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
 #EXTINF:-1 group-title="VOD MOVIES",The Host (2006)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
-
-#EXTINF:-1 group-title="SPORTS",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1 group-title="VOD MOVIES",77.Crisis (2021-Crime)
 https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",78.The College Admissions Scandal (2021-Crime)
@@ -1348,441 +1796,6 @@ https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",162.The Right One (2021-Comedy)
 https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" ,11 TV
-http://51.210.199.43/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZGSSnbX.png" ,4 Turk Billboard
-http://51.210.199.29/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/hHv1tSI.png" ,4 Turk Music
-http://51.210.199.30/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/vQHPZd9.jpg" ,AVA Series
-http://51.210.199.4/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/izRMFzC.jpg" ,AVA Family
-http://51.210.199.5/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/CkNisAW.png" ,Avang TV
-http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w913855439.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/heiZw6B.jpg" ,FX Series
-http://51.210.199.52/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" ,Iran Beauty 
-http://51.210.199.57/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/sbQXr.png" ,ITC TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/chunklist_b4628000.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/MRWFcox.jpg" ,Maah TV
-http://51.210.199.33/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LWhslPt.jpg" ,Madar Plus TV
-http://51.210.199.40/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/aOdvm9T.png" ,Manoto Tv
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-
-#EXTINF:-1 group-title="Iran" tvg-id="IranInternational.ir" tvg-logo="https://i.imgur.com/oeiaea6.png" ,Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" ,PERSIANA + 
-http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/ytII1cO.png" ,PERSIANA BILLBOARD
-http://51.210.199.10/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/PNgDL7b.png" ,PERSIANA CINEMA
-http://51.210.199.15/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/2r7qMfh.png" ,PERSIANA CLASSIC
-http://51.210.199.26/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/byxZkMi.png" ,PERSIANA COMEDY
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LeLkpDr.png" ,PERSIANA ENTERTAINMENT
-http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/OG2nMRk.png" ,PERSIANA FAMILY
-http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/1EFkWsZ.png" ,PERSIANA FAMILY +
-http://51.210.199.13/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/0y1p9G5.png" ,PERSIANA GAME & TECH
-http://51.210.199.25/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/gIihZfT.png" ,PERSIANA IRANIAN
-http://51.210.199.22/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/LmbNidk.png" ,PERSIANA JUNIOR
-http://51.210.199.18/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/pMrAvY6.png" ,PERSIANA MUSIC
-http://51.210.199.24/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/lmqXkwa.png" ,PERSIANA NOSTALGIA
-http://51.210.199.20/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/VkFTibo.jpg" ,PERSIANA SONNATI
-http://51.210.199.59/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" ,Radio Javan
-https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" ,SL 1
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" ,SL 2
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/HRLVcdL.png" ,T2 TV
-http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" ,VOX1 TVG
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="N/A" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" ,VOX2 TVG
-http://51.210.199.9/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="AllSports.ir" tvg-logo="N/A" ,All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="iFILMCINE.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ir-ifilm-4421.jpg" ,iFILM CINE
-https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="KalemehTV.ir" tvg-logo="https://i.imgur.com/HQjLbwm.png" ,Kalemeh TV
-https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="MBCPersia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" ,MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="PayamJavanTV.ir" tvg-logo="N/A" ,Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="PayamJavanTV.ir" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" ,Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="PBCTapeshTV.ir" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" ,PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="PMC.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" ,PMC
-https://hls.pmchd.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="RangarangTV.ir" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" ,Rangarang TV
-https://iptv.rangarang.us/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="YourTimeTV.ir" tvg-logo="https://yourtime.tv/img/utv-logo.png" ,YourTime TV
-https://hls.yourtime.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Iran" tvg-id="ParnianTV.ir" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" ,Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-
-#EXTINF:-1 tvg-id="4UTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Iran",4U TV 
-http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",AFN TV  
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FARS.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",FARS 
-http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GOLESTAN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",GOLESTAN 
-http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HighVision.us" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",High Vision  
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="Iran",Iran International 
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-
-#EXTINF:-1 tvg-id="JAHANBIN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",JAHANBIN 
-http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NAVAHANG.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",NAVAHANG 
-http://51.210.227.130/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Persian Film 
-http://51.210.227.135/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="QAZVIN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",QAZVIN 
-http://cdn1.live.irib.ir:1935/epg-live/smil:qazvin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TehranTV24.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",TehranTV 24 
-http://51.210.227.132/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Toonix.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran",Toonix 
-http://51.210.227.134/hls/stream.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" ,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" ,Ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/oe5jSEg.jpg" ,Bloomberg Quicktake AU
-https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/aqMhht6.png" ,Clubbing TV AU
-https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/szYOy8S.jpg" ,EURONEWS
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/jUWffic.png" ,Filmzie AU
-https://filmzie-filmzie-2-au.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/XboGSjX.png" ,Fuel TV
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/DZD4jTq.png" ,Gusto TV
-https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/r5Ip3P0.png" ,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/gKNP2Gd.png" ,Insight TV
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/iVw55kC.png" ,Introuble TV
-https://introuble-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/VSiG39E.png" ,Inwild TV
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder TV
-https://inwonder-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/d3LshRd.png" ,Inwonder 2 TV
-https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" ,Juice TV
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/SQInLji.png" ,Mytime Movies AU
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yz0J7UZ.png" ,Now 70's AU
-https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Dq1vSHe.png" ,Now 80's AU
-https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" ,Now 90's AU
-https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/mcUDAhZ.png" ,Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/z8O4Dl6.png" ,Real Families AU
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" ,Real Stories
-https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" ,Rialto
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" ,Ryan and Friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/weNdD7r.png" ,Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/yuRa9lM.png" ,Tastemade AU
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/9JTMh3F.jpg" ,Timeline AU
-https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/Rb3OrsM.png" ,Trace Sport Stars AU
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/protQzs.png" ,Trace Urban AU
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="N/A" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" ,VENN
-https://venntv-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English
-https://i.mjh.nz/au/Sydney/tv.46.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="AusBizTV.au" tvg-logo="N/A" ,Aus Biz TV
-https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA
-https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="MaoriTelevision.au" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" ,Maori Television
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
-https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-
-#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10  
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-
-#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold  
-https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
-
-#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach  
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-
-#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-
-#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Australia",Juice TV 
-https://juicex.nz/hls/mystream.m3u8
-
-
-
-#EXTINF:-1 tvg-id="7flix.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" group-title="Australia",7flix [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:-1 tvg-id="7mate.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" group-title="Australia",7mate [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 tvg-id="9Gem.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="Australia",9Gem [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:-1 tvg-id="9Go.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png" group-title="Australia",9Go! [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:-1 tvg-id="9Life.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png" group-title="Australia",9Life [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:-1 tvg-id="9Rush.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png" group-title="Australia",9Rush [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-#EXTINF:-1 tvg-id="10.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="Australia",10 (720p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:-1 tvg-id="10Bold.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" group-title="Australia",10 Bold (540p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
-#EXTINF:-1 tvg-id="10Peach.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" group-title="Australia",10 Peach (540p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:-1 tvg-id="10Shake.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png" group-title="Australia",10 Shake [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
-
-#EXTINF:-1 tvg-id="ABCME.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Australia",ABC ME (720p)
-https://c.mjh.nz/101002210224
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="Australia",ABC News (720p) [Geo-blocked]
-https://c.mjh.nz/101002210220
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002210221
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002310231
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002510251
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002710271
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Australia",ABC TV (720p)
-https://c.mjh.nz/101002810281
-#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",ABC TV Plus (720p)
-https://c.mjh.nz/abc2
-#EXTINF:-1 tvg-id="ausbizTV.au" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="Australia",ausbiz TV (720p) [Geo-blocked]
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="Australia",C31 Melbourne (480p)
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="Australia",Channel 44 (480p)
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 tvg-id="M4TV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="Australia",M4TV (1080p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nine.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="Australia",Nine [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 tvg-id="NITV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" group-title="Australia",NITV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:-1 tvg-id="SBSFood.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" group-title="Australia",SBS Food [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:-1 tvg-id="SBSTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" group-title="Australia",SBS TV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:-1 tvg-id="SBSViceland.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" group-title="Australia",SBS Viceland [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" group-title="Australia",SBS World Movies [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1 tvg-id="Seven.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png" group-title="Australia",Seven [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains Television (1080p) [Geo-blocked]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Australia",Snowy Mountains Television (1080p) [Not 24/7]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="TravelFoodTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Australia",Travel & Food TV (720p) [Timeout]
-https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
-#EXTINF:-1 tvg-id="TVSN.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Australia",TVSN (360p) [Not 24/7]
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 1
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 2
-https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-#EXTINF:-1 group-title="NEWS",BBC
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="NEWS",CNN International HD
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 group-title="NEWS",NBC
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 group-title="NEWS",TRT NEWS
-http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="NEWS",CNBC
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="NEWS",Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 group-title="NEWS",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="NEWS",SKY NEWS
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
-http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="ENHLISH MOVIES",HBO  HITS
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/415.m3u8
-
-#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/412.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY PREMIUM
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/413.m3u8
-#EXTINF:-1 group-title="ENHLISH MOVIES",VIU6
-https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong (2021)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Vanquish (2021)
@@ -2796,9 +2809,9 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959810
 
 
 
+#########################################################################################
 
-
-
+NOT FIXED YET
 
 
     
@@ -3130,16 +3143,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YENI_RELAX_KANALLAR", NATURE Waterfalls Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="My TV", MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
-#EXTINF:-1 group-title="My TV", MBC 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 group-title="My TV", MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
-#EXTINF:-1 group-title="My TV", MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 group-title="My TV", MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:0 type="stream" channelId="4989" group="ARAB_MBC_PAKET", MBC DRAMA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
 #EXTINF:0 type="stream" channelId="4996" group="ARAB_MBC_PAKET", MBC Plus Drama
@@ -3218,151 +3221,6 @@ http://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 
 
-##############################################################
-IRAN
-
-
-#EXTINF:-1 group-title="IRAN", VOX 1
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", VOX 2
-http://51.210.199.9/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", MY MOVIES
-http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", WAYKING TV
-http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", FX PERSIAN
-http://51.210.199.52/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", PRIMA MOVIES
-http://51.210.199.40/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", IRAN CINEMA
-http://51.210.199.57/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", DRAMA TV
-http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", SL 1
-http://51.210.199.3/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", SL 2
-http://51.210.199.2/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-6OHBf8_ARcU/YAg2LwEdNWI/AAAAAAAAQbE/fORiTgbDKDIyzcF7UtiBXf4s3NnZIuK3ACLcBGAsYHQ/s320/4TURKMUS%25C4%25B0C.png", 4TURK MUSiC HD
-http://51.210.199.30/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-6OHBf8_ARcU/YAg2LwEdNWI/AAAAAAAAQbE/fORiTgbDKDIyzcF7UtiBXf4s3NnZIuK3ACLcBGAsYHQ/s320/4TURKMUS%25C4%25B0C.png", 4TURK BiLBOARD HD
-http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-DRubpdvvwZE/YAmr6bXoGXI/AAAAAAAAQeo/YRVM1XRHprUgkLLQvInhoIgMUg4dhpgIwCLcBGAsYHQ/s0/avafamily.png", AVA Family
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/--eC7RQ5kIqs/YAmr6TDUM9I/AAAAAAAAQes/akpFfKQZVlggLsANCw3e0DX1emZCPXTnACLcBGAsYHQ/s0/ava-series.png", AVA Series
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-3wqepX8MzX4/YAmoBm-VwaI/AAAAAAAAQdM/N3aGlIoCZHsHl1g-CqlN3IFF8RQ2h0_hACLcBGAsYHQ/s0/persiana-billboard-fr.png", Persiana Billboard
-http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-hfGaoVBpIbY/YAmoBrFtGPI/AAAAAAAAQdI/dMr0D1aCjoQFKOhkqrRkyci30mK5uz04QCLcBGAsYHQ/s0/persiana-cinema-fr.png", Persiana Cinema
-http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-CPpYWohZXqw/YAmoCEe63fI/AAAAAAAAQdU/ziYIyflQpn4v4zcXhpPLtMIW9gVqIf62QCLcBGAsYHQ/s0/persiana-comedy-fr.png", Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-YxIfhsxxRRk/YAmoCcONosI/AAAAAAAAQdY/rfDeR-GsMOgV27sKEfEmQnuMsE2GAILrgCLcBGAsYHQ/s0/persiana-documentary-fr.png", Persiana SAT 7
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
-v logo="https://1.bp.blogspot.com/-Nd3ZpHSb3Fw/YAmoCkZDfDI/AAAAAAAAQdg/gQjsMzBOsp0bUDoHOJ7lfFEp3qOzJrHBwCLcBGAsYHQ/s0/persiana-family-fr.png", Persiana Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-_4DRPO0HWus/YAmoDDTQqJI/AAAAAAAAQdo/UJ-Mc-qml5oVY0GYaMULewKO_6oOLgT9wCLcBGAsYHQ/s0/persiana-junior-fr.png", Persiana Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-XLH0CZwtWfU/YAmoC-p8hOI/AAAAAAAAQdk/wsW1aZ5bMZsSSd27Gf5LfEVUpW-IWeMTQCLcBGAsYHQ/s0/persiana-iranian-fr.png", Persiana Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-twoIF8Qfw-k/YAmoDGoYKhI/AAAAAAAAQds/BQ3z7uXuiIoVeNIKj4S5UW12VQflp2HVQCLcBGAsYHQ/s0/persiana-music-fr.png", Persiana Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-W72lpfqe2hA/YAmoDkIT_SI/AAAAAAAAQd0/34eSm8xMnrgpD6KupFdFgfhVODyiSwBHgCLcBGAsYHQ/s0/persiana-nostalgia-fr.png", Persiana Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-8dRCfTcemmk/YAmpM9LBf9I/AAAAAAAAQeY/SEIzLIkpOIkZ83wwCedF4OZ-c4T5Y_tjgCLcBGAsYHQ/s0/persiana-game-and-tech-fr.png", Persiana Game-Tech
-http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", Persiana Family Plus
-http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", Persiana Plus
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", Persiana Sonati
-http://51.210.199.59/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", Persiana Varzesh
-http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", PMC ROYALE
-http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", PBC TABESH TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="IRAN", BARAN TV IRAN
-https://sdm.telewebion.com/live/baran/playlist.m3u8
-#EXTINF:-1 group-title="IRAN", BBC IRAN
-http://159.69.58.154/bbc/master.m3u8
-#EXTINF:-1 group-title="IRAN", YOUR TIME IRAN
-https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-gou_DLagS_M/X7vzGV8sDMI/AAAAAAAAP1k/9vWJkTd_6kMgJvIH6uNi3cdfTcQ5z4u4gCLcBGAsYHQ/s320/CMW-gold.png", MTC IRAN
-http://51.210.227.128/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", PARS TV
-https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
-#EXTINF:-1 group-title="IRAN", IRAN INT
-https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="IRAN", AVANG TV
-http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w609232161.m3u8
-#EXTINF:-1 group-title="IRAN", I FILM IRAN
-https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
-#EXTINF:-1 group-title="IRAN", I FILM 2
-https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
-#EXTINF:-1 group-title="IRAN", TEHRAN TV
-http://51.210.227.132/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", VOA IRAN
-https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
-#EXTINF:-1 group-title="IRAN", BOX 247 TV
-https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN", AFN MUSIC IRAN
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 group-title="IRAN", NEGAH TV IRAN
-https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
-#EXTINF:-1 group-title="IRAN", SAT 7 IRAN PARS
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
-
-
-######################################################################
-SPORTS
-
-
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-Ms4TszWlxF4/X7LQcdsjlNI/AAAAAAAAPvc/ssOueO1ivsomv1-gHeil_W4ktfp6m5hFQCLcBGAsYHQ/s0/dubai1.png", Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-ptauQAxdHRw/X7LQciB000I/AAAAAAAAPvg/ilOvB3SLUR09onpJm1XAYYVWRXJxQxa1wCLcBGAsYHQ/s0/dubai2.png", Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-LGO3Zdy7KXc/X7LQcjjqMfI/AAAAAAAAPvk/0wrIDgVSELgeV0SgBzop46FxhrOKPy4kwCLcBGAsYHQ/s0/dubai3.jpg", Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 type="stream" channelId="4980" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://i.imgur.com/eytrf0Y.png", Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="3207" name="CBC" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-2wiIfDBDCoM/X7vhwe0V5xI/AAAAAAAAP1Q/tfEX6YavXNMU6hPLVlERIZtdsDpKPxkTQCLcBGAsYHQ/s320/my-sport-live-tv-logo-02-1024x492.png", My Sports TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-5MYTwDJrnW0/X6vlWEgoM7I/AAAAAAAAPtg/kAYoUxL0fV0oO6-Cn60io8Qx3EV-g6cVgCLcBGAsYHQ/s0/oman_sport.png", Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-JoaojSLpzG0/X7LQbpKQIgI/AAAAAAAAPvM/mVav0TnZyO0N4J9BiypeUaaP12iYVlWpACLcBGAsYHQ/s320/atgtv.png", SPORT | ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-
-###########################################################################
-GERMAN
-
-
-#EXTINF:-1 group-title="GERMAN", ANIXE HD SERIE
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 group-title="GERMAN", K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 group-title="GERMAN" logo="https://s3.welocal.world/badentv/sources/5f1edbeb6b62c.png", Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 group-title="GERMAN" logo="http://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png", Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 group-title="GERMAN" logo="http://cdn-radiotime-logos.tunein.com/s100563q.png", Elbekanal
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1 group-title="GERMAN", Health TV
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 group-title="GERMAN", MUnchen TV
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="GERMAN", NDR Hamburg HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-
-
-##########################################################
-
-
-
-
-
 #EXTINF:0 type="stream" channelId="217" group="FRANSA_TV_KANALLARI", EURONEWS FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="790" group="FRANSA_TV_KANALLARI", TRACE URBAN
@@ -3389,11 +3247,6 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:0 type="stream" channelId="2201" group="FRANSA_TV_KANALLARI" logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png", TV5 Monde info-YEDEK
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-
-
-
-
-
 #EXTINF:0 type="stream" channelId="5" group="RUSYA_TV_KANALLARI", RUSSiA K
 https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
 #EXTINF:0 type="stream" channelId="3979" group="RUSYA_TV_KANALLARI", RN 24
@@ -3448,9 +3301,6 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 https://video1.in-news.ru/360/index.m3u8
 #EXTINF:0 type="stream" channelId="2800" group="RUSYA_TV_KANALLARI", Travel TV Bulgaria
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-
-
-
 #EXTINF:30 type="stream" channelId="-1" group="YUNANISTAN_TV_KANALLARI", Alert TV Greece
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YUNANISTAN_TV_KANALLARI", Attica TV
@@ -3487,10 +3337,6 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YUNANISTAN_TV_KANALLARI", Crete TV Greece
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
-
-
-
-
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", Sobrenatural TV (Backup)
@@ -3775,30 +3621,6 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="DUNYA_ULKELERINDEN_KARISIK_TV_KANALLARI", Karbala Live 1 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-
-
-
-##########################################################################
-4K TV
-
-
-
-#EXTINF:-1 group-title="4K TV", CLARITY 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", BLOOMBERG 4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", LOUPE 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="4K TV", FASHION 4K
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-
-
-
-
-
-
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Action Sports TV 4U
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", American Horrors
@@ -3879,6 +3701,161 @@ https://broadcast.mytvtogo.net/newbeginningtv/newbeginningtv/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsmaxtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="My TV TOGO_KANALLAR" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", News Net
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnewsnet/playlist.m3u8
+##############################################################
+IRAN
+
+
+#EXTINF:-1 group-title="IRAN", VOX 1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", VOX 2
+http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", MY MOVIES
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", WAYKING TV
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", FX PERSIAN
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", PRIMA MOVIES
+http://51.210.199.40/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", IRAN CINEMA
+http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", DRAMA TV
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", SL 1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", SL 2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-6OHBf8_ARcU/YAg2LwEdNWI/AAAAAAAAQbE/fORiTgbDKDIyzcF7UtiBXf4s3NnZIuK3ACLcBGAsYHQ/s320/4TURKMUS%25C4%25B0C.png", 4TURK MUSiC HD
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-6OHBf8_ARcU/YAg2LwEdNWI/AAAAAAAAQbE/fORiTgbDKDIyzcF7UtiBXf4s3NnZIuK3ACLcBGAsYHQ/s320/4TURKMUS%25C4%25B0C.png", 4TURK BiLBOARD HD
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-DRubpdvvwZE/YAmr6bXoGXI/AAAAAAAAQeo/YRVM1XRHprUgkLLQvInhoIgMUg4dhpgIwCLcBGAsYHQ/s0/avafamily.png", AVA Family
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/--eC7RQ5kIqs/YAmr6TDUM9I/AAAAAAAAQes/akpFfKQZVlggLsANCw3e0DX1emZCPXTnACLcBGAsYHQ/s0/ava-series.png", AVA Series
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-3wqepX8MzX4/YAmoBm-VwaI/AAAAAAAAQdM/N3aGlIoCZHsHl1g-CqlN3IFF8RQ2h0_hACLcBGAsYHQ/s0/persiana-billboard-fr.png", Persiana Billboard
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-hfGaoVBpIbY/YAmoBrFtGPI/AAAAAAAAQdI/dMr0D1aCjoQFKOhkqrRkyci30mK5uz04QCLcBGAsYHQ/s0/persiana-cinema-fr.png", Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-CPpYWohZXqw/YAmoCEe63fI/AAAAAAAAQdU/ziYIyflQpn4v4zcXhpPLtMIW9gVqIf62QCLcBGAsYHQ/s0/persiana-comedy-fr.png", Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-YxIfhsxxRRk/YAmoCcONosI/AAAAAAAAQdY/rfDeR-GsMOgV27sKEfEmQnuMsE2GAILrgCLcBGAsYHQ/s0/persiana-documentary-fr.png", Persiana SAT 7
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
+v logo="https://1.bp.blogspot.com/-Nd3ZpHSb3Fw/YAmoCkZDfDI/AAAAAAAAQdg/gQjsMzBOsp0bUDoHOJ7lfFEp3qOzJrHBwCLcBGAsYHQ/s0/persiana-family-fr.png", Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-_4DRPO0HWus/YAmoDDTQqJI/AAAAAAAAQdo/UJ-Mc-qml5oVY0GYaMULewKO_6oOLgT9wCLcBGAsYHQ/s0/persiana-junior-fr.png", Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-XLH0CZwtWfU/YAmoC-p8hOI/AAAAAAAAQdk/wsW1aZ5bMZsSSd27Gf5LfEVUpW-IWeMTQCLcBGAsYHQ/s0/persiana-iranian-fr.png", Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-twoIF8Qfw-k/YAmoDGoYKhI/AAAAAAAAQds/BQ3z7uXuiIoVeNIKj4S5UW12VQflp2HVQCLcBGAsYHQ/s0/persiana-music-fr.png", Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-W72lpfqe2hA/YAmoDkIT_SI/AAAAAAAAQd0/34eSm8xMnrgpD6KupFdFgfhVODyiSwBHgCLcBGAsYHQ/s0/persiana-nostalgia-fr.png", Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-8dRCfTcemmk/YAmpM9LBf9I/AAAAAAAAQeY/SEIzLIkpOIkZ83wwCedF4OZ-c4T5Y_tjgCLcBGAsYHQ/s0/persiana-game-and-tech-fr.png", Persiana Game-Tech
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", Persiana Family Plus
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", Persiana Sonati
+http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", Persiana Varzesh
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", PMC ROYALE
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", PBC TABESH TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="IRAN", BARAN TV IRAN
+https://sdm.telewebion.com/live/baran/playlist.m3u8
+#EXTINF:-1 group-title="IRAN", BBC IRAN
+http://159.69.58.154/bbc/master.m3u8
+#EXTINF:-1 group-title="IRAN", YOUR TIME IRAN
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN" logo="https://1.bp.blogspot.com/-gou_DLagS_M/X7vzGV8sDMI/AAAAAAAAP1k/9vWJkTd_6kMgJvIH6uNi3cdfTcQ5z4u4gCLcBGAsYHQ/s320/CMW-gold.png", MTC IRAN
+http://51.210.227.128/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", PARS TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
+#EXTINF:-1 group-title="IRAN", IRAN INT
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
+#EXTINF:-1 group-title="IRAN", AVANG TV
+http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w609232161.m3u8
+#EXTINF:-1 group-title="IRAN", I FILM IRAN
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1 group-title="IRAN", I FILM 2
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
+#EXTINF:-1 group-title="IRAN", TEHRAN TV
+http://51.210.227.132/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", VOA IRAN
+https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
+#EXTINF:-1 group-title="IRAN", BOX 247 TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN", AFN MUSIC IRAN
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="IRAN", NEGAH TV IRAN
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+#EXTINF:-1 group-title="IRAN", SAT 7 IRAN PARS
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
+
+
+######################################################################
+SPORTS
+
+
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-Ms4TszWlxF4/X7LQcdsjlNI/AAAAAAAAPvc/ssOueO1ivsomv1-gHeil_W4ktfp6m5hFQCLcBGAsYHQ/s0/dubai1.png", Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-ptauQAxdHRw/X7LQciB000I/AAAAAAAAPvg/ilOvB3SLUR09onpJm1XAYYVWRXJxQxa1wCLcBGAsYHQ/s0/dubai2.png", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-LGO3Zdy7KXc/X7LQcjjqMfI/AAAAAAAAPvk/0wrIDgVSELgeV0SgBzop46FxhrOKPy4kwCLcBGAsYHQ/s0/dubai3.jpg", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 type="stream" channelId="4980" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://i.imgur.com/eytrf0Y.png", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="3207" name="CBC" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-2wiIfDBDCoM/X7vhwe0V5xI/AAAAAAAAP1Q/tfEX6YavXNMU6hPLVlERIZtdsDpKPxkTQCLcBGAsYHQ/s320/my-sport-live-tv-logo-02-1024x492.png", My Sports TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-5MYTwDJrnW0/X6vlWEgoM7I/AAAAAAAAPtg/kAYoUxL0fV0oO6-Cn60io8Qx3EV-g6cVgCLcBGAsYHQ/s0/oman_sport.png", Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-JoaojSLpzG0/X7LQbpKQIgI/AAAAAAAAPvM/mVav0TnZyO0N4J9BiypeUaaP12iYVlWpACLcBGAsYHQ/s320/atgtv.png", SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+
+###########################################################################
+
+
+#EXTINF:-1 group-title="My TV", MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:-1 group-title="My TV", MBC 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 group-title="My TV", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 group-title="My TV", MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 group-title="My TV", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+
+
+
+
+
+##########################################################################
+4K TV
+
+
+
+#EXTINF:-1 group-title="4K TV", CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="4K TV", BLOOMBERG 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="4K TV", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="4K TV", LOUPE 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="4K TV", FASHION 4K
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+
+######################################################################################
+
+
+
 #EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", Nothing Scripted News
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnothingscripted30a/playlist.m3u8
 #EXTINF:-1 group-title="My TV" logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/11/9a/e6119a5b-c553-0311-8265-917306e4d793/pr_source.png/1000x1000bb.png", OAN Plus
@@ -3915,6 +3892,9 @@ https://broadcast.mytvtogo.net/wlpctv/wlpctv/playlist.m3u8
 
 
 #######################################################
+MUSIC
+
+
 
 #EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Music",404 Stingray Greatest Hits (1080p)
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
