@@ -737,12 +737,7 @@ Extra
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
-#EXTINF:-1 tvg-id="RTLGold.hu" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",RTL Gold (360p) [Not 24/7]
-https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1 tvg-id="RTLII.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="TEST",RTL II (720p) [Not 24/7]
-https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",RTL Klub (720p) [Not 24/7]
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="RTLWest.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/i7245OO.png" group-title="TEST",RTL West (540p)
-https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:-1 tvg-id="VoAPersian.us" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="TEST",VoA Persian (1080p)
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
 
