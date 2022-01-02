@@ -736,3 +736,10 @@ Extra
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="TEST",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdf-logo.png" group-title="TEST",ZDF [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",ZDFinfo [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",ZDFneo [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
