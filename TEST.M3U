@@ -737,9 +737,12 @@ Extra
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/zdf-logo.png" group-title="TEST",ZDF [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",ZDFinfo [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",ZDFneo [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",RTL Gold (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="TEST",RTL II (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="TEST",RTL Klub (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="RTLWest.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/i7245OO.png" group-title="TEST",RTL West (540p)
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+
