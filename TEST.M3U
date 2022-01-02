@@ -734,4 +734,4 @@ http://192.168.178.55/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=a
 Extra
 
 #EXTINF:-1 group-title="TEST" , dw 
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
