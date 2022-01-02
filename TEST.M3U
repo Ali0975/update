@@ -733,5 +733,5 @@ http://192.168.178.55/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=a
 #####################
 Extra
 
-#EXTINF:-1,DW  group-title="TEST"
+#EXTINF:-1,DW TEST  group-title="TEST"
 https://www.dw.com/en/live-tv/s-100825?channel=1
