@@ -728,3 +728,21 @@ http://192.168.178.55/?freq=11670&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilo
 http://192.168.178.55/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=51&pmt=99&pids=0,1535,1536,99
 #EXTINF:-1,ANIXE+
 http://192.168.178.55/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=764&pmt=107&pids=0,3311,3312,107
+
+
+#####################
+Extra
+
+
+#EXTINF:-1,DW
+https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+#EXTINF:-1,Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1,Zee TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1,History TV
+https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+#EXTINF:-1,NAT GEO WILD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
