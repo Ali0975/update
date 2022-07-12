@@ -18,6 +18,8 @@ https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
 #EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two 
 https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" group-title="Australia",MovieSphere
+https://7plus.com.au/live-tv?channel-id=MovieSphere
 
 #EXTINF:-1 tvg-id="Nine.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="Australia",Nine 
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8#EXTINF:-1 tvg-id="9Gem.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="Australia",9Gem [Geo-blocked]
