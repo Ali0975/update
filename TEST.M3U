@@ -18,7 +18,7 @@ https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
 #EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" group-title="Australia",7two 
 https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" group-title="Australia",MovieSphere
+#EXTINF:-1 tvg-id="7two.au" tvg-country="AU" tvg-language="English" group-title="Australia",SkyNews Extra1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com
 
 
