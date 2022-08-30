@@ -151,16 +151,6 @@ http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 
-#EXTINF:-1,tvg-name="Snowy Mountain TV |" tvg-logo="https://i.ytimg.com/vi/_0K6tavh8A0/maxresdefault.jpg" group-title="AussieBouquet",Australia | Snowy Mountain TV
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&rebase=on
-
-
-
-
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" 
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="DOCUMENTARY",National Geographic Abu Dhabi (1080p)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PersianaDocumentary.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Documentary",Persiana Documentary (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentaries (720p)
@@ -650,12 +640,6 @@ https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
 
 ################################################################################################
-
-#EXTM3U
-
-
-
-
 
 
 #EXTINF:-1 group-title="DOCUMENTARY", CLARITY 4K
