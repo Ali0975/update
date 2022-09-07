@@ -651,6 +651,181 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel
 
+#EXTINF:-1 group-title="DOCUMENTARY",Travel XP HD
+http://103.153.175.254:8080/hls/stream37.m3u8?BDTV
+#EXTINF:-1 group-title="DOCUMENTARY",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo
+http://idolatv.my.id/teguh/natgeo.m3u=
+
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo Wild
+http://idolatv.my.id/teguh/natgeowild.m3u
+
+#EXTINF:-1 group-title="DOCUMENTARY",Nat Geo People
+http://idolatv.my.id/teguh/natgeopeople.m3u
+
+#EXTINF:0,IQ HD ()
+acestream://7ff1b8ba725698bafa4eaf6b130033b3e71683e6
+#EXTINF:0,Nat Geo Wild ()
+acestream://df785a2eedf0caf6953f7d16fbb7e849eb9aa34a
+#EXTINF:0,Nat Geo Wild HD ()
+acestream://ccbbe9011b39008fc8551797d0b8c703fd2d0400"
+
+http://m3u.iptvla.xyz/usuarios/src3/Naruto/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1,Nat Geo
+http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1,Nat Geo Kids
+http://m3u.iptvla.xyz/usuarios/src1/NatGeoKids/Ismael.Diaz/ZEa.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+
+
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+#EXTINF:0, NAT GEO + BT
+http://143.159.109.156:9000/playlist.m3u8
+#EXTINF:0, Nat Geo Wild
+http://5.152.199.130/iptv/2A58VZ6Q2V/133/index.m3u8
+#EXTINF:0, Nat Geo Wild HD
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",XPLORE
+
+https://tv7api2.tv.init7.net/api/live/?channel=e8d9c6e0-3691-4314-ac4a-b5636280d8d4
+#EXTINF:-1 ,Wild Earth HD (ENG)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8?ROGERIOTORRES
+
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/Samsung-TVPlus_WildPlanet_Circle_1080x1080_72DPI.png?$296_164_PNG$" group-title="Pengetahuan Umum", WILD PLANET
+https://tinyurl.com/TiviMe-WildPlanet
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMq50eCzp1BooeO672tG9VTXD2wB89ibOyg&usqp=CAU" group-title="Pengetahuan Umum", INWILD
+
+
+
+#EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="
+https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE AND DISCOVERY",NATGEO WILD
+
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.ca" status="online",Outside TV (720p)
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore (1080p)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" status="online",Xplore (1080p)
+https://xplore-roku.amagi.tv/playlist.m3u8
+
+http://95.211.169.18:8000/live/tester/123/51.m3u8
+#EXTINF:-1,BBC Entertainment
+
+#EXTINF:-1 tvg-logo="https://www.bbcchannels.com/brand/assets/images/channel-assets/bbc-entertainment/about-logo-bbc-entertainment.png" group-title="UK",BBC Entertainment
+
+#EXTINF:0, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2FParaKodi.t s
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:0, BBC ENTERTAINMENT
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2FParaKodi.ts
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL  PLANET FHD" tvg-logo="https://bcassetcdn.com/public/blog/wp-content/uploads/2019/11/20115031/animal-planet-logo.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL  PLANET FHD
+http://angels.red:80/live/221181/786712/100623.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD[ALT]" tvg-logo="https://bcassetcdn.com/public/blog/wp-content/uploads/2019/11/20115031/animal-planet-logo.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FHD[ALT]
+http://angels.red:80/live/221181/786712/100576.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K H265" tvg-logo="https://bcassetcdn.com/public/blog/wp-content/uploads/2019/11/20115031/animal-planet-logo.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET 4K H265
+
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1,US: Animal Planet HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/1449.m3u8
+http://nitro.ltd:25461/live/Loise/Loise/11673.m3u8
+#EXTINF:-1,La: Animal Planet
+http://nitro.ltd:25461/live/Loise/Loise/5.m3u8
+
+#EXTINF:-1,DEUTSCH SD+
+http://list.deeplist.nl/live/fer001/nanda987/38471.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://list.deeplist.nl/live/fer001/nanda987/1084.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://list.deeplist.nl/live/fer001/nanda987/52605.m3u8
+
+http://213.136.73.41/8748/416.m3u8
+#EXTINF:-1,Discovery Channel
+http://213.136.73.41/8748/371.m3u8
+#EXTINF:-1,Discovery Science
+http://213.136.73.41/8748/381.m3u8
+#EXTINF:-1,Discovery Turbo
+http://213.136.73.41/8748/383.m3u8
+#EXTINF:-1,Lifetime
+
+
+#EXTINF:-1,FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1,Investigation Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+#EXTINF:-1  group-title="General", DiscoveryChannel
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=95&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery Turbo
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=96&f=.m3u8
+
+#EXTINF:-1  group-title="General", Discovery HYH
+
+
+#EXTINF:-1 tvg-id="IGN.us" status="online",IGN (1080p)
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us" status="online",Journy (720p)
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&pid=5f5132df62fe160040f26bc2&ptoken=PLbo_Jw_s1xgoB_1Srgg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/nature_scape.png" group-title="风光",Nature Scape
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO FHD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117569
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117570
+
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png",HBO 
+http://topwin-tv.my.id/m3u/hbo-hbohd.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png",HBO HITS
+http://topwin-tv.my.id/m3u/hbo-hitshd.m3u8
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png",HBO FAMILY
+
+http://m3u.iptvlegal.tv:25461/live/5780190562/81682/1876.ts
+#EXTINF:-1,H2 [SD]
+http://m3u.iptvlegal.tv:25461/live/5780190562/81682/1862.ts
+#EXTINF:-1,HBO (FHD)
+http://m3u.iptvlegal.tv:25461/live/5780190562/81682/2636.ts
+#EXTINF:-1,HBO (HD)
+http://m3u.iptvlegal.tv:25461/live/5780190562/81682/2605.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO", HBO FAMILY
+http://ps3u.ga/m3u/Lista01160621/latinos/hbofamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO", HBO 
+http://ps3u.ga/m3u/Lista01160621/latinos/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO", HBO 2
 
 
 ################################################################
