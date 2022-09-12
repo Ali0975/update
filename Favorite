@@ -209,3 +209,433 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Hi-YAH! (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+
+#EXTM3U
+#EXTINF:60,ABC
+https://c.mjh.nz/101002210221/
+#EXTINF:0,ABC TV Plus
+https://c.mjh.nz/abc2/
+#EXTINF:0,ABC KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:0,ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:60,SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:0,SBS Food
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:0,SBS VICELAND
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:0,SBS World Movies
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:0,10
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:0,10 BOLD
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+#EXTINF:0,10 Peach
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:138,10 SHAKE
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+#EXTINF:0,Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:0,7flix
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:0,7mate
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:0,7TWO
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:0,Nine
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:72,9Gem
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:0,9Go!
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:0,9Life
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:0,9Rush
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+#EXTINF:0,ABC News in 90 Seconds
+https://i.mjh.nz/au/Sydney/tv.abc_news_90
+#EXTINF:0,ABC News
+https://c.mjh.nz/101002210220/
+#EXTINF:60,CNN International (England)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:91,Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:60,ABC News Live
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8
+#EXTINF:54,NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:25,Service
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0,MSNBC
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwq2YDz-GclQxcLaWH-ii-s?checkedby:iptvcat.com
+#EXTINF:0,CBS News (CBSN)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web&checkedby:iptvcat.com
+#EXTINF:0,ABC News HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16710?checkedby:iptvcat.com
+#EXTINF:0,GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:60,Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+#EXTINF:60,Al Jazeera
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+#EXTINF:40,Channel News Asia (CNA)
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+#EXTINF:53,CBC News
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokucbcnews/CDN/playlist.m3u8
+#EXTINF:31,Euronews World (Australia)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:60,PBS America (Australia Geo)
+https://pbs-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:56,Cheddar
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:57,Cheddar News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8
+#EXTINF:60,Newsy
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+#EXTINF:32,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:54,Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+#EXTINF:60,USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:60,USA Today Sportswire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Sportswire.m3u8
+#EXTINF:60,Pattrn
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:60,WeatherNation
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:54,TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:60,ausbiz TV
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+#EXTINF:50,Bloomberg Australia
+https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
+#EXTINF:60,Bloomberg Quicktake
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:60,Bloomberg TV+ 4K (England)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:60,Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:36,America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:60,BNC GO
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Black-News.m3u8
+#EXTINF:54,ASN Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:0,Bally Sports So Cal
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4854.ts?checkedby:iptvcat.com
+#EXTINF:0,BEIN SPORT 1 HD USA
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7118?checkedby:iptvcat.com
+#EXTINF:24,beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:59,Bein Sports XTRA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,beIN.m3u8
+#EXTINF:60,Edge Sport (England)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:102,EDGESport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Eleven Sports Network
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16218.ts?checkedby:iptvcat.com
+#EXTINF:-1,ESPN
+#EXTVLCOPT:network-caching=1000
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16265.ts?checkedby:iptvcat.com
+#EXTINF:-1,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/312.ts?checkedby:iptvcat.com
+#EXTINF:-1,ESPNEWS (USA)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16262.ts?checkedby:iptvcat.com
+#EXTINF:60,Fox Sports
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
+#EXTINF:60,FTF (For the Fans)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:54,Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:0,Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:35,MAVTV Motor Sports (Australia)
+https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,MLB
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
+#EXTINF:0,Motorvision (Australia) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungau/playlist.m3u8
+#EXTINF:59,NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:0,Redbull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+#EXTINF:0,Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/
+#EXTINF:60,Stadium
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+#EXTINF:0,Olympics Channel
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+#EXTINF:60,PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:60,PAC-12 Insider
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8
+#EXTINF:60,People TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-People-TV.m3u8
+#EXTINF:54,Players TV (England)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:54,Players.tv
+https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
+#EXTINF:25,Service
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=576&deviceId=5db0510962948d000961d3c6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:25,Service
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=607&deviceId=5d7677fa2ec536ce1d587eeb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:60,The Tennis Channel International (England)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:59,KTTV Fox 11 Los Angeles
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:60,News 12 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
+#EXTINF:0,WNYW Fox 5 New York
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:60,Action Hollywood Movies (Australia)
+https://lightning-actionhollywood-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:35,Bounty Plus (Australia)
+https://bountyfilms-bounty-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,Clubbing TV (Australia)
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:62,College Humour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucollegehumor/CDN/master.m3u8
+#EXTINF:25,Service
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:53,Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:53,Conde Neste Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:60,Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:35,Dry Bar Comedy (Australia)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:59,Dust (Australia)
+https://dust-int-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Fido TV
+https://fidotv-roku.amagi.tv/playlist.m3u8
+#EXTINF:53,Filmrise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:53,Filmrise Classic tV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Cooking
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Dr G Medical Examiner
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-drgmedicalexaminer/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:0,Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Heartland
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:0,FilmRise Horror
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisehorror/CDN/playlist.m3u8
+#EXTINF:0,FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisekids/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Mystery
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:0,Filmrise scifi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:0,FilmRise True Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisetruecrime/CDN/playlist.m3u8
+#EXTINF:0,Filmrise Western
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:35,Filmzie (Australia)
+https://filmzie-filmzie-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,Fox Soul
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m3u8
+#EXTINF:59,GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:53,Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8
+#EXTINF:0,Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:0,Iheart Christmas
+https://d35vozlor946gj.cloudfront.net/out/v1/bc83fb104a774588b1e199fd0fcf8b33/index.m3u8?streamid=4596&stationid=4596&callLetters=IHAD-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=45dbfab367eb5b7598310c7cf029c7d1&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:0,Iheart Christmas Classics
+https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8?streamid=6137&stationid=6137&callLetters=IHVA-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=fb2d18e2a81f541885d0e2f133da4d25&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:0,Iheart Christmas Country
+https://d1k9eusiqcru88.cloudfront.net/out/v1/689cb2bf2f5d480aa1f37d8a595ab899/index.m3u8?streamid=4601&stationid=4601&callLetters=IHCO-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=80acb7809cac5051bc39dac439a33d3d&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:0,Iheart Christmas R&B
+https://d1k802x72s3su7.cloudfront.net/out/v1/27f0e05c261242c199eee01b7b99bc87/index.m3u8?streamid=6136&stationid=6136&callLetters=IHUR-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=55b7a69a772f5a96b49b331b96b7c488&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:0,Iheart Christmas Rock
+https://d1ipcy3kxm6s6d.cloudfront.net/out/v1/cdc0e2c2bfef4a1c9fa1c4f3595c0dd3/index.m3u8?streamid=6410&stationid=6410&callLetters=IHRK-FL&host=rokuchannel.appliance.us&clienttype=rokuchannel&devicename=rokuchannel&terminalid=32105&init_id=8169&iheartradioversion=1.0.0&osVersion=1.0.0&fb_broadcast=0&at=0&territory=US&dist=iheart&is_lat=1&bmodel=ROKU_BIZ_MODEL&content=192a78187148597f85ba8dafbdb3ede6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=5726685e-9b1f-5101-a360-14c2bf8706db&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=iheart_media&channel_id=151908&channelStore=us
+#EXTINF:0,Impact Wrestling
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuimpactwrestling/CDN/playlist.m3u8
+#EXTINF:0,Insight tv (Australia)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Introuble (Australia)
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Inwild (Australia)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Inwonder (Australia)
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,kiDoodle TV
+https://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Kocowa Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
+#EXTINF:0,Latido Music
+https://vidaprimo-roku-us.amagi.tv/hls/amagi_hls_data_vidaprimo-rokuvidaprimo/CDN/playlist.m3u8
+#EXTINF:0,Law & Crime
+https://lawandcrime-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Lively Place
+https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/playlist.m3u8
+#EXTINF:34,Made in Hollywood (Australia)
+https://connection3-ent-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,MoonBug
+https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
+#EXTINF:0,Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:0,Moviesphere
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:60,Moviesphere (England)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:25,MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:25,MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:0,MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:0,MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:0,MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:0,MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:0,My5 Crime Pluto TV (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5d2c571faeb3e2738ae27933&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,My5 Documentaries Pluto TV (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:60,Mytime Movies (Australia)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:60,Naturescape (Australia)
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:0,NITV
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:0,Nosey
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Nosey (Australia) 
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 70's (Australia)
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 80's (Australia)
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Now 90's (Australia)
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:59,Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+#EXTINF:54,Outside Tv
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:0,Pet Club TV (Australia Geo)
+https://petclub-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Planet Knowledge (England)
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Pluto TV Conspiracy (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=202&deviceId=5d4ae94ef1a1bbb350ca41bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Crime (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=200&deviceId=5ea18cd42ee5410007e349dc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Drama (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=402&deviceId=5ddf91149880d60009d35d27&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Food (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=500&deviceId=5ddf930548ff9b00090d5686&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Inside (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=302&deviceId=5d767857f65029ce2385b217&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Movies (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5ad8d3a31b95267e225e4e09&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Paranormal (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=216&deviceId=5d4af2ffa9506ab29cf38c38&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Retro Drama (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=415&deviceId=5ddf91f19c2c3300098ce961&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Romance (England)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5d7677c0edace7cff8180b16&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:35,PowerNation (Australia)
+https://rtmtv-samsung-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,Pulse TV (Australia)
+https://lightning-pulse-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Real Crime (Australia) Geo
+https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Real Families (Australia)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:60,Real Madrid
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:72,Real Stories (Australia)
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Real Wild (Australia) Geo
+https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Redbox Free Movies
+https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
+#EXTINF:55,Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:0,RetroCrush
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Rev and Roll
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
+#EXTINF:60,Rialto (Australia)
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:60,Samsung Comedy Channel (England)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:55,Slugterra
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuslugterra/CDN/playlist.m3u8
+#EXTINF:60,Smithsonian Channel (Australia)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:53,So Real (Geo-USA)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-cinedigm-soreal-roku-rokuus/playlist.m3u8
+#EXTINF:0,Sofy.TV (England)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0,Spark TV (England)
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0,Super Simple Songs
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Supertoons TV (England)
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:53,The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:53,The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
+#EXTINF:0,This Old House
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:72,Time Line (Australia)
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Today All day
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
+#EXTINF:0,Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-roku/CDN/playlist.m3u8
+#EXTINF:60,Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:53,Tribecca Film Channel
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokutribecafilm/CDN/playlist.m3u8
+#EXTINF:53,Unsolved Mysterys
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:53,Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
+#EXTINF:55,VENN (Australia)
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:57,Vevo Pop (England)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:60,Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
+#EXTINF:36,Weather Spy (Australia)
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:54,Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuwired/CDN/playlist.m3u8
+#EXTINF:0,Wonder (Australia)
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Xplore
+https://xplore-roku.amagi.tv/hls/amagi_hls_data_littonAAA-xplore-roku/CDN/playlist.m3u8
+#EXTINF:54,Xumo Crime TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumocrimetv/CDN/playlist.m3u8
+#EXTINF:0,Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:0,Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
