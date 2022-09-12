@@ -631,31 +631,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 
-#EXTINF:-1,US: Hallmark Movies
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/94890
-#EXTINF:-1,US: HBO 2 West FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77693
-#EXTINF:-1,US: HBO Comedy HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/148295
-#EXTINF:-1,US: HBO Family FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156782
-#EXTINF:-1,US: HBO Plus West HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/84377
-#EXTINF:-1,US: HBO Signature FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156783
-#EXTINF:-1,US: HBO Zone FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/103755
-#EXTINF:-1,US: HGTV FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/103756
-#EXTINF:-1,US: HIFI HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/76512
-#EXTINF:-1,US: Hollywood HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/99886
-#EXTINF:-1,US: Home & Health
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/122178
-#EXTINF:-1,US: Indie Plex HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77690
-#EXTINF:-1,US: INVESTIGATION DISCOVERY HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/98292
-#EXTINF:-1,US: Key TV HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/91538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
