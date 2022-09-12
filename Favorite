@@ -636,7 +636,96 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 
 
-
+#EXTINF:-1,UK Universal Channel
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/67153.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/168737.m3u8
+#EXTINF:-1,Discovery ID
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/142643.m3u8
+#EXTINF:-1,Discovery Life
+#EXTINF:-1,Disney XD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/142647.m3u8
+#EXTINF:-1,UK Cartoon Network HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/332490.m3u8
+#EXTINF:-1,UK Horror Channel
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/21003.m3u8
+#EXTINF:-1,UK Sky Action FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378441.m3u8
+#EXTINF:-1,UK Sky Action HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378442.m3u8
+#EXTINF:-1,UK Sky Action SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378443.m3u8
+#EXTINF:-1,UK Sky Comedy HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378444.m3u8
+#EXTINF:-1,UK Sky Comedy SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378445.m3u8
+#EXTINF:-1,UK Sky DC Heroes FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378446.m3u8
+#EXTINF:-1,UK Sky DC Heroes HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378447.m3u8
+#EXTINF:-1,UK Sky Disney FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378448.m3u8
+#EXTINF:-1,UK Sky DC Heroes SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378449.m3u8
+#EXTINF:-1,UK Sky Disney HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378450.m3u8
+#EXTINF:-1,UK Sky Disney SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378451.m3u8
+#EXTINF:-1,UK Sky Drama FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378452.m3u8
+#EXTINF:-1,UK Sky Drama HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378453.m3u8
+#EXTINF:-1,UK Sky Drama SDhttp://iptv4.premium-stv.com:8000/live/PaNeLSKYITPRO2/SQqARwLmpP/316.ts
+#EXTINF:-1,|IT| PREMIUM SPORT 2
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378454.m3u8
+#EXTINF:-1,UK Sky Family FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378455.m3u8
+#EXTINF:-1,UK Sky Family HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378456.m3u8
+#EXTINF:-1,UK Sky Family SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378457.m3u8
+#EXTINF:-1,UK Sky Greats FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378458.m3u8
+#EXTINF:-1,UK Sky Greats HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378459.m3u8
+#EXTINF:-1,UK Sky Greats SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378460.m3u8
+#EXTINF:-1,UK Sky Hits FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378461.m3u8
+#EXTINF:-1,UK Sky Hits SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378462.m3u8
+#EXTINF:-1,UK Sky Hits HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378463.m3u8
+#EXTINF:-1,UK Sky Premiere FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378464.m3u8
+#EXTINF:-1,UK Sky Premiere HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378465.m3u8
+#EXTINF:-1,UK Sky Premiere SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378466.m3u8
+#EXTINF:-1,UK Sky SciFi & Hor FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378467.m3u8
+#EXTINF:-1,UK Sky SciFi & Hor HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378468.m3u8
+#EXTINF:-1,UK Sky SciFi & Hor SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378469.m3u8
+#EXTINF:-1,UK Sky Thriller FHD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378470.m3u8
+#EXTINF:-1,UK Sky Thriller HD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378471.m3u8
+#EXTINF:-1,UK Sky Thriller SD
+http://pie.buzz:83/live/InVisiontV132/Yaushyc235/378472.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 FHD
+http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/67.ts
+#EXTINF:-1,|UK| BT SPORT 2 FHD
+http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/66.ts
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+http://iptv3.premium-stv.com:8789/live/btsport.pro2/yuzedygze@uyeduzedyu/65.ts
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/307
+#EXTINF:-1,|IT| SKY SPORT 251 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/292
+#EXTINF:-1,|IT| SKY SPORT 252 HD
+http://iptv6.premium-stv.com:25461/sourceitallypro2/5315420317/290
 
 
 
