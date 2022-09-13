@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:0,Aljazeera Documentary TV
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
