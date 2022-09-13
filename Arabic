@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",Aljazeera Vathaeghie
-https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
-
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
