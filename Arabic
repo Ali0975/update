@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,Aljazeera Documentary TV
-https://b-g-ca-5.feetcdn.com:2223/v2-hls-playback/c41b1011a9656cded65d4c8f51221f06a4e0a4b6803d619249b6f66ea632e172ae2c83b7cf70a58185c96db49a0d54e83922e922e586b12f174371f26a5e03538acd9577ce13c108c2c3ee43fa26743e665b9eabd94ae554a8c735a82128471b20cfaea7309890c26bef9645360d96928a94f5e789522212e814bfa247302e65b9b01cd14bf48fed1b986d3abf44e9fdf0a6628a67c206136d868c87e2bf4cb4227c8e303f7bde551bef431af56ec77d/720/index.m3u8
+#EXTINF:0,Better Call Saul S2E1
+https://tinyurl.com/46n9282d
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
