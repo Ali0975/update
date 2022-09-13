@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=”248″ tvg-name=”Aljazeera-Documentary” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljazeera-Documentary – Aljazeera-Documentary
-https://drive.google.com/file/d/1Gw_kJKBUNlQOhz_rbo22MbmBszOoa8nf/view
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-url="" group-title="",2M Monde (360p)
