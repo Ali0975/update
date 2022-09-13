@@ -1,12 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E1
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E1 Switch
 https://e-3.mzzcloud.life/_v8/926a6d74ece3bc1b576a2f242ce31f04d0823ca981c20519f148063dae09d3e47159247ea2158434e00a45bae201b2bfef954f60ccea13c3d6878bc09beb7da25c664820856634a4e33831268b7a338611fa2b021f10f3800c47c6330994c973159dbe5cf0be7d9a2750cf12a98e7f13a5aed99e6038cf3ba9e08ee64334e47f/720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E2
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E2 Cobbler
 https://e-7.mzzcloud.life/_v8/0e414cfa5370813936e78ad139bc6d208cddd26e25503c875a606457a12ef3dcbae70556d1dea62818c53d70a032fb30226cbca455347a7316a334e638c4d17021be2cbda371bada572f21ff0ea15d94bf5483431bdf9497be0aa8a22d0dfe5e79f2516ad3714d2c0ecab4059111311013f9526b67684a7e2b231ea49600f253/1080/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E3 Amarillo
+https://e-8.mzzcloud.life/_v8/40bf8cf3d0ab973c566c70dcc76a5cc02be22a793db80580b7664957872d727d9351472770d4f30552a446817fb31fc66c41f4bb0b818fa3298fac81e189832592f428d0344d1d011a647640acfdbe820602c8f438bd45f33d34f89e157df0fdc2d4307426320c4c5f71c469384da65d42b631048174f2bb0bbdacbaf757d061/1080/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E4 Gloves Off
+https://e-5.mzzcloud.life/_v8/bfdc5f26102fa7553bbe8908bb09adbd761ef1a1b5b8635cfc70a111ff915b84d77c0bb681d12c2f2f10b44341367542e68124a63480feb41a45845a8b7cdfad0e30e0c1bfa65338b2f0751f7c36154537da2c63021d9d48ebc0ce8c7bcc61ccf1f39e948582d2270c5ee61b067c2b2906eccd5f618aef89049c971ce0060850/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E5 Rebecca
+https://e-2.mzzcloud.life/_v8/ec978fb20024393566f7493a8a39748f0b89f5f8513785572f38fbf72be469c8eef88447cc9264645094b64d37d8db6a1b35f3a3fcbbe3ba458d4fb910a5d22d7a29f944ac3609c4971d55c45c8951823ad4ed483c124c67cbcd87c56ef6a1f7c4f2f3911f0737d3e63a5361373f82104c902c2a16b16711744aeb7c182ecc99/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E6 Bali Ha'i
+https://e-9.mzzcloud.life/_v8/4a70b46ebc02fdefe95ca7931b8d0396546e0424f2f0a87550764550a4fae8cb663f1d1fb5a3aa79b3f0b1cda958ac7806d5f513ff400f95bb40ad8c8fa6530b974e8039be2b9950744b6b9c40a688a9cd5dbc3906df5f6bae5639040d17f9a19a8caf8ddbc67cc1198e5dfc0c0637050fed2eba804fe5658d5a48c71cc550a7/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E7 Inflatable
+https://c-3.mzzcloud.life/_v8/557ce5af8a73a7e416667c0d52196a495958355ec6b8d1d5a8f20f96bc89b5ac3eb070bcc5c6cf8b2fcf722faae3a679cf8e6d0ec7c830635dc35b02470490d9eaec3d89fdab1e1dc75f033eb49d0348f3d7868acbc5361fe3ca19eb4a8ea7ce42a1ab0808ffa6868790f4e216f5fd023ff299803a175e794d7cf435503ca33f/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E8 Fifi
+https://e-10.mzzcloud.life/_v8/d39afc7a6d6d209b98d91520bf7cfdefd9db76170a4cd3b69224a125119581a7e9fd443250eb75c7be68851c53b340870afc279c63973563a506c8152d3990783f326cc29eee83fc48b53aa1574f0038444e8e37461758b8d51a457aff3afe880b8b9691a272b04531a4a538b0cd1de530b27d45fd731e7ef00d2424ccc120fe/1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E9 Nailed
+https://c-3.mzzcloud.life/_v8/ed5ad2e0f54facdcb55db1627a9f0803fe798cf048c7e5aebf242b59e5faabe987553aa759d3ab6b670688b4408b117b4414bc19470ebb9fe40ed9a9d2632a41a2d9cc40dc1193edf2c30e04b90cd44106a9128cd05bc39b36066b7e114d487e4808f57af5980e3538b03bcb7571c343f125b2fbd68b8f2ffa8cd1f11d8e5f46/1080/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S3E1 Mable
+https://e-4.mzzcloud.life/_v8/df629713169665853dcf62d4c5903a403d91c1b36087a7a76551dc38bf88ed770e5faba9c7877fdf21d9fd6f161a91180ec4ded07dcb9f6c3c07e8479eb4597e6550ec315a95e89ff2d967f168bf1d91079ea28f1624e29a0e4aee4652c14bfcb5ea316cf1319df9a48f40a92e4e7599078ddb075693f5303ec571ad68086126/1080/index.m3u8
 
 
 
