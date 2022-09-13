@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0,Better Call Saul S2E1
-https://e-3.mzzcloud.life/_v8/926a6d74ece3bc1b576a2f242ce31f04d0823ca981c20519f148063dae09d3e47159247ea2158434e00a45bae201b2bfef954f60ccea13c3d6878bc09beb7da25c664820856634a4e33831268b7a338611fa2b021f10f3800c47c6330994c973159dbe5cf0be7d9a2750cf12a98e7f13a5aed99e6038cf3ba9e08ee64334e47f/1080/index.m3u8
-
+https://e-3.mzzcloud.life/_v8/926a6d74ece3bc1b576a2f242ce31f04d0823ca981c20519f148063dae09d3e47159247ea2158434e00a45bae201b2bfef954f60ccea13c3d6878bc09beb7da25c664820856634a4e33831268b7a338611fa2b021f10f3800c47c6330994c973159dbe5cf0be7d9a2750cf12a98e7f13a5aed99e6038cf3ba9e08ee64334e47f/720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-url="" group-title="",2M Monde (360p)
