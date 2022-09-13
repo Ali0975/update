@@ -1,12 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://assets.fanart.tv/fanart/tv/273181/hdtvlogo/better-call-saul-5e8c9e645a230.png" group-title="Better Call Saul",S2E1
-
-
-https://tinyurl.com/4h634b35
-
-
-
+https://e-3.mzzcloud.life/_v8/926a6d74ece3bc1b576a2f242ce31f04d0823ca981c20519f148063dae09d3e47159247ea2158434e00a45bae201b2bfef954f60ccea13c3d6878bc09beb7da25c664820856634a4e33831268b7a338611fa2b021f10f3800c47c6330994c973159dbe5cf0be7d9a2750cf12a98e7f13a5aed99e6038cf3ba9e08ee64334e47f/720/index.m3u8
 
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-url="" group-title="",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
