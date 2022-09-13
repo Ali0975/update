@@ -3,7 +3,11 @@
 https://tinyurl.com/4h634b35
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
-http://82.212.74.99:8000/live/hls/8117.m3u8
+https://video.externulls.com/key=ft2NeZlDoQYouPfNZQ1EUw,end=1663085819,ip=144.138.233.110,limit=1/media=hlsA/720p/198055540255562.mp4.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-url="" group-title="",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" tvg-url="" group-title="",3eesh Al Aan TV
