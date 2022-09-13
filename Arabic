@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",Aljazeera Vathaeghie
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
+#EXTINF:-1 tvg-id=”248″ tvg-name=”Aljazeera-Documentary” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljazeera-Documentary – Aljazeera-Documentary
+http://89.163.145.166:80/live?channelId=248&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="" group-title="",22 TV
