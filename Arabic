@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-url="" group-title="",2M Monde (360p)
 
-https://previews.externulls.com/770689531716252/80.webp
-
+https://video.externulls.com/key=bqYUFADwyKC0iziqL7RulQ,end=1663170974,ip=144.138.233.110,limit=1/media=hlsA/720p/770689531716252.mp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" tvg-url="" group-title="",3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
