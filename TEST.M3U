@@ -411,7 +411,7 @@ Iran
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Irani", Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:dailyfreeiptvlist.com
+https://edge-uk3.manoto.click/live_1500.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAAH TV" tvg-logo="" group-title="Irani",MAAH TV
 http://51.210.199.33/hls/stream.m3u8
@@ -420,7 +420,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANOTO PLUS 1" tvg-logo="" group-title="Irani",MANOTO PLUS 1
 
 #EXTINF:-1 ,Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+https://edge-uk3.manoto.click/live_1500.m3u8
 #EXTINF:-1 ,BBC Persian
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
 
