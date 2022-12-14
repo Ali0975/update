@@ -411,7 +411,8 @@ Iran
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Irani", Manoto
-https://edge-uk1.manoto.click/live_2500.m3u8
+https://dh4wkqcyy8768.cloudfront.net/live_2500.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAAH TV" tvg-logo="" group-title="Irani",MAAH TV
 http://51.210.199.33/hls/stream.m3u8
