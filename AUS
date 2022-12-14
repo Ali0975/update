@@ -120,5 +120,3 @@ https://i.mjh.nz/au/Melbourne/tv.46.m3u8
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 
-#EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
-https://video.externulls.com/key=O5mD1-RrbadTwuEbzI1WNQ,end=1671008342,ip=1.152.107.251,limit=1/media=hlsA/1080p/764770622127814.mp4.m3u8
