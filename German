@@ -257,7 +257,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60db2e7a62df960007a
 #EXTINF:-1 tvg-name="Chaos City" tvg-logo="http://images.pluto.tv/channels/60afbad343e3840007164348/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Germany",Chaos City
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afbad343e3840007164348/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=43867960-83bf-11ea-8c80-2f0e09d7945a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ae85c97-0579-48b1-a94f-73392ab42614&userId=
 #EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="Germany",Nick Ⓖ
-http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+https://video.externulls.com/key=O5mD1-RrbadTwuEbzI1WNQ,end=1671008342,ip=1.152.107.251,limit=1/media=hlsA/1080p/764770622127814.mp4.m3u8
+
 #EXTINF:-1 tvg-name="Deluxe Music Ⓖ Ⓢ" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Germany",Deluxe Music Ⓖ Ⓢ
 @@ -455,6 +709,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
