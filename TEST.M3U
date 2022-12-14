@@ -798,7 +798,12 @@ http://95.211.169.18:8000/live/tester/123/51.m3u8
 #EXTINF:-1 tvg-logo="https://www.bbcchannels.com/brand/assets/images/channel-assets/bbc-entertainment/about-logo-bbc-entertainment.png" group-title="UK",BBC Entertainment
 
 #EXTINF:0, FOX
+
 https://ip230613647.ahcdn.com/key=llzjrFQpDcl6dYvoXVaWhA,s=,end=1671010997,ip=1.152.107.251,limit=1/state=Y5liAZhr/reftag=288292515/clipFrom/65000/clipTo/665000/media=hlsA/44/23/1/200849541.m3u8
+
+
+
+
 #EXTINF:0, BBC ENTERTAINMENT
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2FParaKodi.ts
 
