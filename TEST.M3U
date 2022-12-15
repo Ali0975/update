@@ -844,10 +844,11 @@ http://213.136.73.41/8748/383.m3u8
 
 
 #EXTINF:-1,FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
-#EXTINF:-1,Investigation Discovery
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+https://video.externulls.com/key=tMVfH-EJfkjmLKs7VnxZbg,end=1671117643,ip=1.136.111.223,limit=1/media=hlsA/1080p/958626776225787.mp4.m3u8#EXTINF:-1,Investigation Discovery
+
+
+
+
 #EXTINF:-1,Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
 
